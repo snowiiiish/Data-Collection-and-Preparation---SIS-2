@@ -27,6 +27,7 @@ The website is **dynamically rendered** (JavaScript). The scraping module (`src/
 
 ### Project Structure
 
+```text
 project/
 │   README.md
 │   .gitignore

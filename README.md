@@ -47,18 +47,32 @@ project/
     ├── drivers_final_cleaned.json
     └── output.db
 ```
-### How to Run Airflow
+### How to Run Airflow (Local Environment)
 
-1.  **Start Services:** Launch the Airflow environment using Docker Compose.
+1.  **Install Dependencies:** Ensure all project dependencies, including Airflow and Selenium libraries, are installed.
     ```bash
-    docker compose up -d
+    pip install -r requirements.txt
     ```
-2.  **Access UI:** Open the Airflow web interface (`http://localhost:8080`).
-3.  **Trigger DAG:** Locate the `f1_drivers_pipeline` DAG, ensure it is **ON**, and trigger a run.
+
+2.  **Initialize Airflow:** Set your Airflow Home directory, initialize the database, and create an admin user (if not done already).
+    ```bash
+    export AIRFLOW_HOME=~/airflow_f1_project
+    airflow db migrate
+    airflow users create --username admin --firstname Admin --lastname User --role Admin --email admin@example.com
+    ```
+
+3.  **Start Services:** Launch the scheduler and webserver in separate terminals:
+    ```bash
+    # Terminal 1: Start the Scheduler
+    airflow scheduler
+
+    # Terminal 2: Start the Webserver
+    airflow webserver --port 8080
+    ```
+
+4.  **Trigger DAG:** Access the Airflow web interface (`http://localhost:8080`). Locate the `f1_drivers_pipeline` DAG, ensure it is **ON**, and trigger a run.
 
 The pipeline executes the tasks sequentially: **Scraping** → **Cleaning** → **Loading**.
-
----
 
 ## 3. Database Schema
 

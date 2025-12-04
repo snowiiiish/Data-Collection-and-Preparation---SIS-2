@@ -27,7 +27,25 @@ The website is **dynamically rendered** (JavaScript). The scraping module (`src/
 
 ### Project Structure
 
-project/ ├── airflow_dag.py # Airflow Orchestration ├── src/ │ ├── scraper.py # Data Extraction │ ├── cleaner.py # Data Transformation/Aggregation │ └── loader.py # Data Loading (SQLite) └── data/ # Output directory (volume mounted) └── output.db # Final Database
+project/
+│   README.md
+│   .gitignore
+│   requirements.txt
+│   airflow_dag.py
+│   create_schema.py
+│   pipeline.py
+│
+├── src/
+│   ├── scraper.py
+│   ├── cleaner.py
+│   └── loader.py
+│
+└── data/
+    ├── drivers.json
+    ├── drivers_clean.json
+    ├── drivers_final_cleaned.json
+    └── output.db
+
 
 ### How to Run Airflow
 

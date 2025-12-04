@@ -89,6 +89,7 @@ Now start the Airflow services:
 
 ```bash
 export AIRFLOW_HOME=$(pwd)/airflow
+export AIRFLOW__CORE__DAGS_FOLDER=$(pwd)
 airflow standalone
 ```
 

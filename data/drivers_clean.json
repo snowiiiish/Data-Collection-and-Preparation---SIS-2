@@ -1,0 +1,8321 @@
+[
+  {
+    "driver_name": "Lewis Hamilton",
+    "nationality": "GBR",
+    "total_points": 5014.5,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 152.0
+      },
+      {
+        "year": 2024,
+        "position": "7",
+        "team": "Mercedes",
+        "points": 223.0
+      },
+      {
+        "year": 2023,
+        "position": "3",
+        "team": "Mercedes",
+        "points": 234.0
+      },
+      {
+        "year": 2022,
+        "position": "6",
+        "team": "Mercedes",
+        "points": 240.0
+      },
+      {
+        "year": 2021,
+        "position": "2",
+        "team": "Mercedes",
+        "points": 387.5
+      },
+      {
+        "year": 2020,
+        "position": "1",
+        "team": "Mercedes",
+        "points": 347.0
+      },
+      {
+        "year": 2019,
+        "position": "1",
+        "team": "Mercedes",
+        "points": 413.0
+      },
+      {
+        "year": 2018,
+        "position": "1",
+        "team": "Mercedes",
+        "points": 408.0
+      },
+      {
+        "year": 2017,
+        "position": "1",
+        "team": "Mercedes",
+        "points": 363.0
+      },
+      {
+        "year": 2016,
+        "position": "2",
+        "team": "Mercedes",
+        "points": 380.0
+      },
+      {
+        "year": 2015,
+        "position": "1",
+        "team": "Mercedes",
+        "points": 381.0
+      },
+      {
+        "year": 2014,
+        "position": "1",
+        "team": "Mercedes",
+        "points": 384.0
+      },
+      {
+        "year": 2013,
+        "position": "4",
+        "team": "Mercedes",
+        "points": 189.0
+      },
+      {
+        "year": 2012,
+        "position": "4",
+        "team": "McLaren Mercedes",
+        "points": 190.0
+      },
+      {
+        "year": 2011,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 227.0
+      },
+      {
+        "year": 2010,
+        "position": "4",
+        "team": "McLaren Mercedes",
+        "points": 240.0
+      },
+      {
+        "year": 2009,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 49.0
+      },
+      {
+        "year": 2008,
+        "position": "1",
+        "team": "McLaren Mercedes",
+        "points": 98.0
+      },
+      {
+        "year": 2007,
+        "position": "2",
+        "team": "McLaren Mercedes",
+        "points": 109.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Max Verstappen",
+    "nationality": "NED",
+    "total_points": 3419.5,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "2",
+        "team": "Red Bull Racing",
+        "points": 396.0
+      },
+      {
+        "year": 2024,
+        "position": "1",
+        "team": "Red Bull Racing Honda RBPT",
+        "points": 437.0
+      },
+      {
+        "year": 2023,
+        "position": "1",
+        "team": "Red Bull Racing Honda RBPT",
+        "points": 575.0
+      },
+      {
+        "year": 2022,
+        "position": "1",
+        "team": "Red Bull Racing RBPT",
+        "points": 454.0
+      },
+      {
+        "year": 2021,
+        "position": "1",
+        "team": "Red Bull Racing Honda",
+        "points": 395.5
+      },
+      {
+        "year": 2020,
+        "position": "3",
+        "team": "Red Bull Racing Honda",
+        "points": 214.0
+      },
+      {
+        "year": 2019,
+        "position": "3",
+        "team": "Red Bull Racing Honda",
+        "points": 278.0
+      },
+      {
+        "year": 2018,
+        "position": "4",
+        "team": "Red Bull Racing TAG Heuer",
+        "points": 249.0
+      },
+      {
+        "year": 2017,
+        "position": "6",
+        "team": "Red Bull Racing TAG Heuer",
+        "points": 168.0
+      },
+      {
+        "year": 2016,
+        "position": "5",
+        "team": "Red Bull Racing TAG Heuer",
+        "points": 204.0
+      },
+      {
+        "year": 2015,
+        "position": "12",
+        "team": "STR Renault",
+        "points": 49.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Sebastian Vettel",
+    "nationality": "GER",
+    "total_points": 3098.0,
+    "career_history": [
+      {
+        "year": 2022,
+        "position": "12",
+        "team": "Aston Martin Aramco Mercedes",
+        "points": 37.0
+      },
+      {
+        "year": 2021,
+        "position": "12",
+        "team": "Aston Martin Mercedes",
+        "points": 43.0
+      },
+      {
+        "year": 2020,
+        "position": "13",
+        "team": "Ferrari",
+        "points": 33.0
+      },
+      {
+        "year": 2019,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 240.0
+      },
+      {
+        "year": 2018,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 320.0
+      },
+      {
+        "year": 2017,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 317.0
+      },
+      {
+        "year": 2016,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 212.0
+      },
+      {
+        "year": 2015,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 278.0
+      },
+      {
+        "year": 2014,
+        "position": "5",
+        "team": "Red Bull Racing Renault",
+        "points": 167.0
+      },
+      {
+        "year": 2013,
+        "position": "1",
+        "team": "Red Bull Racing Renault",
+        "points": 397.0
+      },
+      {
+        "year": 2012,
+        "position": "1",
+        "team": "Red Bull Racing Renault",
+        "points": 281.0
+      },
+      {
+        "year": 2011,
+        "position": "1",
+        "team": "Red Bull Racing Renault",
+        "points": 392.0
+      },
+      {
+        "year": 2010,
+        "position": "1",
+        "team": "RBR Renault",
+        "points": 256.0
+      },
+      {
+        "year": 2009,
+        "position": "2",
+        "team": "RBR Renault",
+        "points": 84.0
+      },
+      {
+        "year": 2008,
+        "position": "8",
+        "team": "STR Ferrari",
+        "points": 35.0
+      },
+      {
+        "year": 2007,
+        "position": "14",
+        "team": "STR Ferrari",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Fernando Alonso",
+    "nationality": "ESP",
+    "total_points": 2385.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "12",
+        "team": "Aston Martin",
+        "points": 48.0
+      },
+      {
+        "year": 2024,
+        "position": "9",
+        "team": "Aston Martin Aramco Mercedes",
+        "points": 70.0
+      },
+      {
+        "year": 2023,
+        "position": "4",
+        "team": "Aston Martin Aramco Mercedes",
+        "points": 206.0
+      },
+      {
+        "year": 2022,
+        "position": "9",
+        "team": "Alpine Renault",
+        "points": 81.0
+      },
+      {
+        "year": 2021,
+        "position": "10",
+        "team": "Alpine Renault",
+        "points": 81.0
+      },
+      {
+        "year": 2018,
+        "position": "11",
+        "team": "McLaren Renault",
+        "points": 50.0
+      },
+      {
+        "year": 2017,
+        "position": "15",
+        "team": "McLaren Honda",
+        "points": 17.0
+      },
+      {
+        "year": 2016,
+        "position": "10",
+        "team": "McLaren Honda",
+        "points": 54.0
+      },
+      {
+        "year": 2015,
+        "position": "17",
+        "team": "McLaren Honda",
+        "points": 11.0
+      },
+      {
+        "year": 2014,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 161.0
+      },
+      {
+        "year": 2013,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 242.0
+      },
+      {
+        "year": 2012,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 278.0
+      },
+      {
+        "year": 2011,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 257.0
+      },
+      {
+        "year": 2010,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 252.0
+      },
+      {
+        "year": 2009,
+        "position": "9",
+        "team": "Renault",
+        "points": 26.0
+      },
+      {
+        "year": 2008,
+        "position": "5",
+        "team": "Renault",
+        "points": 61.0
+      },
+      {
+        "year": 2007,
+        "position": "3",
+        "team": "McLaren Mercedes",
+        "points": 109.0
+      },
+      {
+        "year": 2006,
+        "position": "1",
+        "team": "Renault",
+        "points": 134.0
+      },
+      {
+        "year": 2005,
+        "position": "1",
+        "team": "Renault",
+        "points": 133.0
+      },
+      {
+        "year": 2004,
+        "position": "4",
+        "team": "Renault",
+        "points": 59.0
+      },
+      {
+        "year": 2003,
+        "position": "6",
+        "team": "Renault",
+        "points": 55.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Kimi Räikkönen",
+    "nationality": "FIN",
+    "total_points": 1873.0,
+    "career_history": [
+      {
+        "year": 2021,
+        "position": "16",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 10.0
+      },
+      {
+        "year": 2020,
+        "position": "16",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 4.0
+      },
+      {
+        "year": 2019,
+        "position": "12",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 43.0
+      },
+      {
+        "year": 2018,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 251.0
+      },
+      {
+        "year": 2017,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 205.0
+      },
+      {
+        "year": 2016,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 186.0
+      },
+      {
+        "year": 2015,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 150.0
+      },
+      {
+        "year": 2014,
+        "position": "12",
+        "team": "Ferrari",
+        "points": 55.0
+      },
+      {
+        "year": 2013,
+        "position": "5",
+        "team": "Lotus Renault",
+        "points": 183.0
+      },
+      {
+        "year": 2012,
+        "position": "3",
+        "team": "Lotus Renault",
+        "points": 207.0
+      },
+      {
+        "year": 2009,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 48.0
+      },
+      {
+        "year": 2008,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 75.0
+      },
+      {
+        "year": 2007,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 110.0
+      },
+      {
+        "year": 2006,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 65.0
+      },
+      {
+        "year": 2005,
+        "position": "2",
+        "team": "McLaren Mercedes",
+        "points": 112.0
+      },
+      {
+        "year": 2004,
+        "position": "7",
+        "team": "McLaren Mercedes",
+        "points": 45.0
+      },
+      {
+        "year": 2003,
+        "position": "2",
+        "team": "McLaren Mercedes",
+        "points": 91.0
+      },
+      {
+        "year": 2002,
+        "position": "6",
+        "team": "McLaren Mercedes",
+        "points": 24.0
+      },
+      {
+        "year": 2001,
+        "position": "10",
+        "team": "Sauber Petronas",
+        "points": 9.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Valtteri Bottas",
+    "nationality": "FIN",
+    "total_points": 1797.0,
+    "career_history": [
+      {
+        "year": 2024,
+        "position": "22",
+        "team": "Kick Sauber Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2023,
+        "position": "15",
+        "team": "Alfa Romeo Ferrari",
+        "points": 10.0
+      },
+      {
+        "year": 2022,
+        "position": "10",
+        "team": "Alfa Romeo Ferrari",
+        "points": 49.0
+      },
+      {
+        "year": 2021,
+        "position": "3",
+        "team": "Mercedes",
+        "points": 226.0
+      },
+      {
+        "year": 2020,
+        "position": "2",
+        "team": "Mercedes",
+        "points": 223.0
+      },
+      {
+        "year": 2019,
+        "position": "2",
+        "team": "Mercedes",
+        "points": 326.0
+      },
+      {
+        "year": 2018,
+        "position": "5",
+        "team": "Mercedes",
+        "points": 247.0
+      },
+      {
+        "year": 2017,
+        "position": "3",
+        "team": "Mercedes",
+        "points": 305.0
+      },
+      {
+        "year": 2016,
+        "position": "8",
+        "team": "Williams Mercedes",
+        "points": 85.0
+      },
+      {
+        "year": 2015,
+        "position": "5",
+        "team": "Williams Mercedes",
+        "points": 136.0
+      },
+      {
+        "year": 2014,
+        "position": "4",
+        "team": "Williams Mercedes",
+        "points": 186.0
+      },
+      {
+        "year": 2013,
+        "position": "17",
+        "team": "Williams Renault",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Charles Leclerc",
+    "nationality": "MON",
+    "total_points": 1660.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 230.0
+      },
+      {
+        "year": 2024,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 356.0
+      },
+      {
+        "year": 2023,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 206.0
+      },
+      {
+        "year": 2022,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 308.0
+      },
+      {
+        "year": 2021,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 159.0
+      },
+      {
+        "year": 2020,
+        "position": "8",
+        "team": "Ferrari",
+        "points": 98.0
+      },
+      {
+        "year": 2019,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 264.0
+      },
+      {
+        "year": 2018,
+        "position": "13",
+        "team": "Sauber Ferrari",
+        "points": 39.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Sergio Perez",
+    "nationality": "MEX",
+    "total_points": 1638.0,
+    "career_history": [
+      {
+        "year": 2024,
+        "position": "8",
+        "team": "Red Bull Racing Honda RBPT",
+        "points": 152.0
+      },
+      {
+        "year": 2023,
+        "position": "2",
+        "team": "Red Bull Racing Honda RBPT",
+        "points": 285.0
+      },
+      {
+        "year": 2022,
+        "position": "3",
+        "team": "Red Bull Racing RBPT",
+        "points": 305.0
+      },
+      {
+        "year": 2021,
+        "position": "4",
+        "team": "Red Bull Racing Honda",
+        "points": 190.0
+      },
+      {
+        "year": 2020,
+        "position": "4",
+        "team": "Racing Point BWT Mercedes",
+        "points": 125.0
+      },
+      {
+        "year": 2019,
+        "position": "10",
+        "team": "Racing Point BWT Mercedes",
+        "points": 52.0
+      },
+      {
+        "year": 2018,
+        "position": "8",
+        "team": "Force India Mercedes",
+        "points": 62.0
+      },
+      {
+        "year": 2017,
+        "position": "7",
+        "team": "Force India Mercedes",
+        "points": 100.0
+      },
+      {
+        "year": 2016,
+        "position": "7",
+        "team": "Force India Mercedes",
+        "points": 101.0
+      },
+      {
+        "year": 2015,
+        "position": "9",
+        "team": "Force India Mercedes",
+        "points": 78.0
+      },
+      {
+        "year": 2014,
+        "position": "10",
+        "team": "Force India Mercedes",
+        "points": 59.0
+      },
+      {
+        "year": 2013,
+        "position": "11",
+        "team": "McLaren Mercedes",
+        "points": 49.0
+      },
+      {
+        "year": 2012,
+        "position": "10",
+        "team": "Sauber Ferrari",
+        "points": 66.0
+      },
+      {
+        "year": 2011,
+        "position": "16",
+        "team": "Sauber Ferrari",
+        "points": 14.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nico Rosberg",
+    "nationality": "GER",
+    "total_points": 1594.5,
+    "career_history": [
+      {
+        "year": 2016,
+        "position": "1",
+        "team": "Mercedes",
+        "points": 385.0
+      },
+      {
+        "year": 2015,
+        "position": "2",
+        "team": "Mercedes",
+        "points": 322.0
+      },
+      {
+        "year": 2014,
+        "position": "2",
+        "team": "Mercedes",
+        "points": 317.0
+      },
+      {
+        "year": 2013,
+        "position": "6",
+        "team": "Mercedes",
+        "points": 171.0
+      },
+      {
+        "year": 2012,
+        "position": "9",
+        "team": "Mercedes",
+        "points": 93.0
+      },
+      {
+        "year": 2011,
+        "position": "7",
+        "team": "Mercedes",
+        "points": 89.0
+      },
+      {
+        "year": 2010,
+        "position": "7",
+        "team": "Mercedes",
+        "points": 142.0
+      },
+      {
+        "year": 2009,
+        "position": "7",
+        "team": "Williams Toyota",
+        "points": 34.5
+      },
+      {
+        "year": 2008,
+        "position": "13",
+        "team": "Williams Toyota",
+        "points": 17.0
+      },
+      {
+        "year": 2007,
+        "position": "9",
+        "team": "Williams Toyota",
+        "points": 20.0
+      },
+      {
+        "year": 2006,
+        "position": "17",
+        "team": "Williams Cosworth",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Michael Schumacher",
+    "nationality": "GER",
+    "total_points": 1566.0,
+    "career_history": [
+      {
+        "year": 2012,
+        "position": "13",
+        "team": "Mercedes",
+        "points": 49.0
+      },
+      {
+        "year": 2011,
+        "position": "8",
+        "team": "Mercedes",
+        "points": 76.0
+      },
+      {
+        "year": 2010,
+        "position": "9",
+        "team": "Mercedes",
+        "points": 72.0
+      },
+      {
+        "year": 2006,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 121.0
+      },
+      {
+        "year": 2005,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 62.0
+      },
+      {
+        "year": 2004,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 148.0
+      },
+      {
+        "year": 2003,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 93.0
+      },
+      {
+        "year": 2002,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 144.0
+      },
+      {
+        "year": 2001,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 123.0
+      },
+      {
+        "year": 2000,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 108.0
+      },
+      {
+        "year": 1999,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 44.0
+      },
+      {
+        "year": 1998,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 86.0
+      },
+      {
+        "year": 1997,
+        "position": "DQ",
+        "team": "Ferrari",
+        "points": 78.0
+      },
+      {
+        "year": 1996,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 59.0
+      },
+      {
+        "year": 1995,
+        "position": "1",
+        "team": "Benetton Renault",
+        "points": 102.0
+      },
+      {
+        "year": 1994,
+        "position": "1",
+        "team": "Benetton Ford",
+        "points": 92.0
+      },
+      {
+        "year": 1993,
+        "position": "4",
+        "team": "Benetton Ford",
+        "points": 52.0
+      },
+      {
+        "year": 1992,
+        "position": "3",
+        "team": "Benetton Ford",
+        "points": 53.0
+      },
+      {
+        "year": 1991,
+        "position": "12",
+        "team": "Benetton Ford",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Lando Norris",
+    "nationality": "GBR",
+    "total_points": 1415.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "1",
+        "team": "McLaren",
+        "points": 408.0
+      },
+      {
+        "year": 2024,
+        "position": "2",
+        "team": "McLaren Mercedes",
+        "points": 374.0
+      },
+      {
+        "year": 2023,
+        "position": "6",
+        "team": "McLaren Mercedes",
+        "points": 205.0
+      },
+      {
+        "year": 2022,
+        "position": "7",
+        "team": "McLaren Mercedes",
+        "points": 122.0
+      },
+      {
+        "year": 2021,
+        "position": "6",
+        "team": "McLaren Mercedes",
+        "points": 160.0
+      },
+      {
+        "year": 2020,
+        "position": "9",
+        "team": "McLaren Renault",
+        "points": 97.0
+      },
+      {
+        "year": 2019,
+        "position": "11",
+        "team": "McLaren Renault",
+        "points": 49.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Carlos Sainz",
+    "nationality": "ESP",
+    "total_points": 1336.5,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "9",
+        "team": "Williams",
+        "points": 64.0
+      },
+      {
+        "year": 2024,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 290.0
+      },
+      {
+        "year": 2023,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 200.0
+      },
+      {
+        "year": 2022,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 246.0
+      },
+      {
+        "year": 2021,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 164.5
+      },
+      {
+        "year": 2020,
+        "position": "6",
+        "team": "McLaren Renault",
+        "points": 105.0
+      },
+      {
+        "year": 2019,
+        "position": "6",
+        "team": "McLaren Renault",
+        "points": 96.0
+      },
+      {
+        "year": 2018,
+        "position": "10",
+        "team": "Renault",
+        "points": 53.0
+      },
+      {
+        "year": 2017,
+        "position": "9",
+        "team": "Renault",
+        "points": 54.0
+      },
+      {
+        "year": 2016,
+        "position": "12",
+        "team": "Toro Rosso Ferrari",
+        "points": 46.0
+      },
+      {
+        "year": 2015,
+        "position": "15",
+        "team": "STR Renault",
+        "points": 18.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Daniel Ricciardo",
+    "nationality": "AUS",
+    "total_points": 1329.0,
+    "career_history": [
+      {
+        "year": 2024,
+        "position": "17",
+        "team": "RB Honda RBPT",
+        "points": 12.0
+      },
+      {
+        "year": 2023,
+        "position": "17",
+        "team": "AlphaTauri Honda RBPT",
+        "points": 6.0
+      },
+      {
+        "year": 2022,
+        "position": "11",
+        "team": "McLaren Mercedes",
+        "points": 37.0
+      },
+      {
+        "year": 2021,
+        "position": "8",
+        "team": "McLaren Mercedes",
+        "points": 115.0
+      },
+      {
+        "year": 2020,
+        "position": "5",
+        "team": "Renault",
+        "points": 119.0
+      },
+      {
+        "year": 2019,
+        "position": "9",
+        "team": "Renault",
+        "points": 54.0
+      },
+      {
+        "year": 2018,
+        "position": "6",
+        "team": "Red Bull Racing TAG Heuer",
+        "points": 170.0
+      },
+      {
+        "year": 2017,
+        "position": "5",
+        "team": "Red Bull Racing TAG Heuer",
+        "points": 200.0
+      },
+      {
+        "year": 2016,
+        "position": "3",
+        "team": "Red Bull Racing TAG Heuer",
+        "points": 256.0
+      },
+      {
+        "year": 2015,
+        "position": "8",
+        "team": "Red Bull Racing Renault",
+        "points": 92.0
+      },
+      {
+        "year": 2014,
+        "position": "3",
+        "team": "Red Bull Racing Renault",
+        "points": 238.0
+      },
+      {
+        "year": 2013,
+        "position": "14",
+        "team": "STR Ferrari",
+        "points": 20.0
+      },
+      {
+        "year": 2012,
+        "position": "18",
+        "team": "STR Ferrari",
+        "points": 10.0
+      },
+      {
+        "year": 2011,
+        "position": "27",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jenson Button",
+    "nationality": "GBR",
+    "total_points": 1235.0,
+    "career_history": [
+      {
+        "year": 2016,
+        "position": "15",
+        "team": "McLaren Honda",
+        "points": 21.0
+      },
+      {
+        "year": 2015,
+        "position": "16",
+        "team": "McLaren Honda",
+        "points": 16.0
+      },
+      {
+        "year": 2014,
+        "position": "8",
+        "team": "McLaren Mercedes",
+        "points": 126.0
+      },
+      {
+        "year": 2013,
+        "position": "9",
+        "team": "McLaren Mercedes",
+        "points": 73.0
+      },
+      {
+        "year": 2012,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 188.0
+      },
+      {
+        "year": 2011,
+        "position": "2",
+        "team": "McLaren Mercedes",
+        "points": 270.0
+      },
+      {
+        "year": 2010,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 214.0
+      },
+      {
+        "year": 2009,
+        "position": "1",
+        "team": "Brawn Mercedes",
+        "points": 95.0
+      },
+      {
+        "year": 2008,
+        "position": "18",
+        "team": "Honda",
+        "points": 3.0
+      },
+      {
+        "year": 2007,
+        "position": "15",
+        "team": "Honda",
+        "points": 6.0
+      },
+      {
+        "year": 2006,
+        "position": "6",
+        "team": "Honda",
+        "points": 56.0
+      },
+      {
+        "year": 2005,
+        "position": "9",
+        "team": "BAR Honda",
+        "points": 37.0
+      },
+      {
+        "year": 2004,
+        "position": "3",
+        "team": "BAR Honda",
+        "points": 85.0
+      },
+      {
+        "year": 2003,
+        "position": "9",
+        "team": "BAR Honda",
+        "points": 17.0
+      },
+      {
+        "year": 2002,
+        "position": "7",
+        "team": "Renault",
+        "points": 14.0
+      },
+      {
+        "year": 2001,
+        "position": "17",
+        "team": "Benetton Renault",
+        "points": 2.0
+      },
+      {
+        "year": 2000,
+        "position": "8",
+        "team": "Williams BMW",
+        "points": 12.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Felipe Massa",
+    "nationality": "BRA",
+    "total_points": 1167.0,
+    "career_history": [
+      {
+        "year": 2017,
+        "position": "11",
+        "team": "Williams Mercedes",
+        "points": 43.0
+      },
+      {
+        "year": 2016,
+        "position": "11",
+        "team": "Williams Mercedes",
+        "points": 53.0
+      },
+      {
+        "year": 2015,
+        "position": "6",
+        "team": "Williams Mercedes",
+        "points": 121.0
+      },
+      {
+        "year": 2014,
+        "position": "7",
+        "team": "Williams Mercedes",
+        "points": 134.0
+      },
+      {
+        "year": 2013,
+        "position": "8",
+        "team": "Ferrari",
+        "points": 112.0
+      },
+      {
+        "year": 2012,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 122.0
+      },
+      {
+        "year": 2011,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 118.0
+      },
+      {
+        "year": 2010,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 144.0
+      },
+      {
+        "year": 2009,
+        "position": "11",
+        "team": "Ferrari",
+        "points": 22.0
+      },
+      {
+        "year": 2008,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 97.0
+      },
+      {
+        "year": 2007,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 94.0
+      },
+      {
+        "year": 2006,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 80.0
+      },
+      {
+        "year": 2005,
+        "position": "13",
+        "team": "Sauber Petronas",
+        "points": 11.0
+      },
+      {
+        "year": 2004,
+        "position": "12",
+        "team": "Sauber Petronas",
+        "points": 12.0
+      },
+      {
+        "year": 2002,
+        "position": "13",
+        "team": "Sauber Petronas",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mark Webber",
+    "nationality": "AUS",
+    "total_points": 1047.5,
+    "career_history": [
+      {
+        "year": 2013,
+        "position": "3",
+        "team": "Red Bull Racing Renault",
+        "points": 199.0
+      },
+      {
+        "year": 2012,
+        "position": "6",
+        "team": "Red Bull Racing Renault",
+        "points": 179.0
+      },
+      {
+        "year": 2011,
+        "position": "3",
+        "team": "Red Bull Racing Renault",
+        "points": 258.0
+      },
+      {
+        "year": 2010,
+        "position": "3",
+        "team": "RBR Renault",
+        "points": 242.0
+      },
+      {
+        "year": 2009,
+        "position": "4",
+        "team": "RBR Renault",
+        "points": 69.5
+      },
+      {
+        "year": 2008,
+        "position": "11",
+        "team": "Red Bull Renault",
+        "points": 21.0
+      },
+      {
+        "year": 2007,
+        "position": "12",
+        "team": "Red Bull Renault",
+        "points": 10.0
+      },
+      {
+        "year": 2006,
+        "position": "14",
+        "team": "Williams Cosworth",
+        "points": 7.0
+      },
+      {
+        "year": 2005,
+        "position": "10",
+        "team": "Williams BMW",
+        "points": 36.0
+      },
+      {
+        "year": 2004,
+        "position": "13",
+        "team": "Jaguar Cosworth",
+        "points": 7.0
+      },
+      {
+        "year": 2003,
+        "position": "10",
+        "team": "Jaguar Cosworth",
+        "points": 17.0
+      },
+      {
+        "year": 2002,
+        "position": "16",
+        "team": "Minardi Asiatech",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "George Russell",
+    "nationality": "GBR",
+    "total_points": 1023.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "4",
+        "team": "Mercedes",
+        "points": 309.0
+      },
+      {
+        "year": 2024,
+        "position": "6",
+        "team": "Mercedes",
+        "points": 245.0
+      },
+      {
+        "year": 2023,
+        "position": "8",
+        "team": "Mercedes",
+        "points": 175.0
+      },
+      {
+        "year": 2022,
+        "position": "4",
+        "team": "Mercedes",
+        "points": 275.0
+      },
+      {
+        "year": 2021,
+        "position": "15",
+        "team": "Williams Mercedes",
+        "points": 16.0
+      },
+      {
+        "year": 2020,
+        "position": "18",
+        "team": "Williams Mercedes",
+        "points": 3.0
+      },
+      {
+        "year": 2019,
+        "position": "20",
+        "team": "Williams Mercedes",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Oscar Piastri",
+    "nationality": "AUS",
+    "total_points": 781.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "3",
+        "team": "McLaren",
+        "points": 392.0
+      },
+      {
+        "year": 2024,
+        "position": "4",
+        "team": "McLaren Mercedes",
+        "points": 292.0
+      },
+      {
+        "year": 2023,
+        "position": "9",
+        "team": "McLaren Mercedes",
+        "points": 97.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alain Prost",
+    "nationality": "FRA",
+    "total_points": 768.5,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "1",
+        "team": "Williams Renault",
+        "points": 99.0
+      },
+      {
+        "year": 1991,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 34.0
+      },
+      {
+        "year": 1990,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 71.0
+      },
+      {
+        "year": 1989,
+        "position": "1",
+        "team": "McLaren Honda",
+        "points": 76.0
+      },
+      {
+        "year": 1988,
+        "position": "2",
+        "team": "McLaren Honda",
+        "points": 87.0
+      },
+      {
+        "year": 1987,
+        "position": "4",
+        "team": "McLaren TAG",
+        "points": 46.0
+      },
+      {
+        "year": 1986,
+        "position": "1",
+        "team": "McLaren TAG",
+        "points": 72.0
+      },
+      {
+        "year": 1985,
+        "position": "1",
+        "team": "McLaren TAG",
+        "points": 73.0
+      },
+      {
+        "year": 1984,
+        "position": "2",
+        "team": "McLaren TAG",
+        "points": 71.5
+      },
+      {
+        "year": 1983,
+        "position": "2",
+        "team": "Renault",
+        "points": 57.0
+      },
+      {
+        "year": 1982,
+        "position": "4",
+        "team": "Renault",
+        "points": 34.0
+      },
+      {
+        "year": 1981,
+        "position": "5",
+        "team": "Renault",
+        "points": 43.0
+      },
+      {
+        "year": 1980,
+        "position": "15",
+        "team": "McLaren Ford",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Rubens Barrichello",
+    "nationality": "BRA",
+    "total_points": 658.0,
+    "career_history": [
+      {
+        "year": 2011,
+        "position": "17",
+        "team": "Williams Cosworth",
+        "points": 4.0
+      },
+      {
+        "year": 2010,
+        "position": "10",
+        "team": "Williams Cosworth",
+        "points": 47.0
+      },
+      {
+        "year": 2009,
+        "position": "3",
+        "team": "Brawn Mercedes",
+        "points": 77.0
+      },
+      {
+        "year": 2008,
+        "position": "14",
+        "team": "Honda",
+        "points": 11.0
+      },
+      {
+        "year": 2007,
+        "position": "20",
+        "team": "Honda",
+        "points": 0.0
+      },
+      {
+        "year": 2006,
+        "position": "7",
+        "team": "Honda",
+        "points": 30.0
+      },
+      {
+        "year": 2005,
+        "position": "8",
+        "team": "Ferrari",
+        "points": 38.0
+      },
+      {
+        "year": 2004,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 114.0
+      },
+      {
+        "year": 2003,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 65.0
+      },
+      {
+        "year": 2002,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 77.0
+      },
+      {
+        "year": 2001,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 56.0
+      },
+      {
+        "year": 2000,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 62.0
+      },
+      {
+        "year": 1999,
+        "position": "7",
+        "team": "Stewart Ford",
+        "points": 21.0
+      },
+      {
+        "year": 1998,
+        "position": "12",
+        "team": "Stewart Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1997,
+        "position": "13",
+        "team": "Stewart Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1996,
+        "position": "8",
+        "team": "Jordan Peugeot",
+        "points": 14.0
+      },
+      {
+        "year": 1995,
+        "position": "11",
+        "team": "Jordan Peugeot",
+        "points": 11.0
+      },
+      {
+        "year": 1994,
+        "position": "6",
+        "team": "Jordan Hart",
+        "points": 19.0
+      },
+      {
+        "year": 1993,
+        "position": "17",
+        "team": "Jordan Hart",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nico Hulkenberg",
+    "nationality": "GER",
+    "total_points": 620.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "11",
+        "team": "Kick Sauber",
+        "points": 49.0
+      },
+      {
+        "year": 2024,
+        "position": "11",
+        "team": "Haas Ferrari",
+        "points": 41.0
+      },
+      {
+        "year": 2023,
+        "position": "16",
+        "team": "Haas Ferrari",
+        "points": 9.0
+      },
+      {
+        "year": 2022,
+        "position": "22",
+        "team": "Aston Martin Aramco Mercedes",
+        "points": 0.0
+      },
+      {
+        "year": 2020,
+        "position": "15",
+        "team": "Racing Point BWT Mercedes",
+        "points": 10.0
+      },
+      {
+        "year": 2019,
+        "position": "14",
+        "team": "Renault",
+        "points": 37.0
+      },
+      {
+        "year": 2018,
+        "position": "7",
+        "team": "Renault",
+        "points": 69.0
+      },
+      {
+        "year": 2017,
+        "position": "10",
+        "team": "Renault",
+        "points": 43.0
+      },
+      {
+        "year": 2016,
+        "position": "9",
+        "team": "Force India Mercedes",
+        "points": 72.0
+      },
+      {
+        "year": 2015,
+        "position": "10",
+        "team": "Force India Mercedes",
+        "points": 58.0
+      },
+      {
+        "year": 2014,
+        "position": "9",
+        "team": "Force India Mercedes",
+        "points": 96.0
+      },
+      {
+        "year": 2013,
+        "position": "10",
+        "team": "Sauber Ferrari",
+        "points": 51.0
+      },
+      {
+        "year": 2012,
+        "position": "11",
+        "team": "Force India Mercedes",
+        "points": 63.0
+      },
+      {
+        "year": 2010,
+        "position": "14",
+        "team": "Williams Cosworth",
+        "points": 22.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Ayrton Senna",
+    "nationality": "BRA",
+    "total_points": 610.0,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "2",
+        "team": "McLaren Ford",
+        "points": 73.0
+      },
+      {
+        "year": 1992,
+        "position": "4",
+        "team": "McLaren Honda",
+        "points": 50.0
+      },
+      {
+        "year": 1991,
+        "position": "1",
+        "team": "McLaren Honda",
+        "points": 96.0
+      },
+      {
+        "year": 1990,
+        "position": "1",
+        "team": "McLaren Honda",
+        "points": 78.0
+      },
+      {
+        "year": 1989,
+        "position": "2",
+        "team": "McLaren Honda",
+        "points": 60.0
+      },
+      {
+        "year": 1988,
+        "position": "1",
+        "team": "McLaren Honda",
+        "points": 90.0
+      },
+      {
+        "year": 1987,
+        "position": "3",
+        "team": "Lotus Honda",
+        "points": 57.0
+      },
+      {
+        "year": 1986,
+        "position": "4",
+        "team": "Lotus Renault",
+        "points": 55.0
+      },
+      {
+        "year": 1985,
+        "position": "4",
+        "team": "Lotus Renault",
+        "points": 38.0
+      },
+      {
+        "year": 1984,
+        "position": "9",
+        "team": "Toleman Hart",
+        "points": 13.0
+      }
+    ]
+  },
+  {
+    "driver_name": "David Coulthard",
+    "nationality": "GBR",
+    "total_points": 535.0,
+    "career_history": [
+      {
+        "year": 2008,
+        "position": "16",
+        "team": "Red Bull Renault",
+        "points": 8.0
+      },
+      {
+        "year": 2007,
+        "position": "10",
+        "team": "Red Bull Renault",
+        "points": 14.0
+      },
+      {
+        "year": 2006,
+        "position": "13",
+        "team": "RBR Ferrari",
+        "points": 14.0
+      },
+      {
+        "year": 2005,
+        "position": "12",
+        "team": "RBR Cosworth",
+        "points": 24.0
+      },
+      {
+        "year": 2004,
+        "position": "10",
+        "team": "McLaren Mercedes",
+        "points": 24.0
+      },
+      {
+        "year": 2003,
+        "position": "7",
+        "team": "McLaren Mercedes",
+        "points": 51.0
+      },
+      {
+        "year": 2002,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 41.0
+      },
+      {
+        "year": 2001,
+        "position": "2",
+        "team": "McLaren Mercedes",
+        "points": 65.0
+      },
+      {
+        "year": 2000,
+        "position": "3",
+        "team": "McLaren Mercedes",
+        "points": 73.0
+      },
+      {
+        "year": 1999,
+        "position": "4",
+        "team": "McLaren Mercedes",
+        "points": 48.0
+      },
+      {
+        "year": 1998,
+        "position": "3",
+        "team": "McLaren Mercedes",
+        "points": 56.0
+      },
+      {
+        "year": 1997,
+        "position": "3",
+        "team": "McLaren Mercedes",
+        "points": 36.0
+      },
+      {
+        "year": 1996,
+        "position": "7",
+        "team": "McLaren Mercedes",
+        "points": 18.0
+      },
+      {
+        "year": 1995,
+        "position": "3",
+        "team": "Williams Renault",
+        "points": 49.0
+      },
+      {
+        "year": 1994,
+        "position": "8",
+        "team": "Williams Renault",
+        "points": 14.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nelson Piquet",
+    "nationality": "BRA",
+    "total_points": 500.5,
+    "career_history": [
+      {
+        "year": 2009,
+        "position": "21",
+        "team": "Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2008,
+        "position": "12",
+        "team": "Renault",
+        "points": 19.0
+      },
+      {
+        "year": 1991,
+        "position": "6",
+        "team": "Benetton Ford",
+        "points": 26.5
+      },
+      {
+        "year": 1990,
+        "position": "3",
+        "team": "Benetton Ford",
+        "points": 43.0
+      },
+      {
+        "year": 1989,
+        "position": "8",
+        "team": "Lotus Judd",
+        "points": 12.0
+      },
+      {
+        "year": 1988,
+        "position": "6",
+        "team": "Lotus Honda",
+        "points": 22.0
+      },
+      {
+        "year": 1987,
+        "position": "1",
+        "team": "Williams Honda",
+        "points": 73.0
+      },
+      {
+        "year": 1986,
+        "position": "3",
+        "team": "Williams Honda",
+        "points": 69.0
+      },
+      {
+        "year": 1985,
+        "position": "8",
+        "team": "Brabham BMW",
+        "points": 21.0
+      },
+      {
+        "year": 1984,
+        "position": "5",
+        "team": "Brabham BMW",
+        "points": 29.0
+      },
+      {
+        "year": 1983,
+        "position": "1",
+        "team": "Brabham BMW",
+        "points": 59.0
+      },
+      {
+        "year": 1982,
+        "position": "11",
+        "team": "Brabham BMW",
+        "points": 20.0
+      },
+      {
+        "year": 1981,
+        "position": "1",
+        "team": "Brabham Ford",
+        "points": 50.0
+      },
+      {
+        "year": 1980,
+        "position": "2",
+        "team": "Brabham Ford",
+        "points": 54.0
+      },
+      {
+        "year": 1979,
+        "position": "15",
+        "team": "Brabham Ford",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nigel Mansell",
+    "nationality": "GBR",
+    "total_points": 480.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "9",
+        "team": "Williams Renault",
+        "points": 13.0
+      },
+      {
+        "year": 1992,
+        "position": "1",
+        "team": "Williams Renault",
+        "points": 108.0
+      },
+      {
+        "year": 1991,
+        "position": "2",
+        "team": "Williams Renault",
+        "points": 72.0
+      },
+      {
+        "year": 1990,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 37.0
+      },
+      {
+        "year": 1989,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 38.0
+      },
+      {
+        "year": 1988,
+        "position": "9",
+        "team": "Williams Judd",
+        "points": 12.0
+      },
+      {
+        "year": 1987,
+        "position": "2",
+        "team": "Williams Honda",
+        "points": 61.0
+      },
+      {
+        "year": 1986,
+        "position": "2",
+        "team": "Williams Honda",
+        "points": 70.0
+      },
+      {
+        "year": 1985,
+        "position": "6",
+        "team": "Williams Honda",
+        "points": 31.0
+      },
+      {
+        "year": 1984,
+        "position": "10",
+        "team": "Lotus Renault",
+        "points": 13.0
+      },
+      {
+        "year": 1983,
+        "position": "13",
+        "team": "Lotus Renault",
+        "points": 10.0
+      },
+      {
+        "year": 1982,
+        "position": "14",
+        "team": "Lotus Ford",
+        "points": 7.0
+      },
+      {
+        "year": 1981,
+        "position": "14",
+        "team": "Lotus Ford",
+        "points": 8.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Esteban Ocon",
+    "nationality": "FRA",
+    "total_points": 477.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "16",
+        "team": "Haas F1 Team",
+        "points": 32.0
+      },
+      {
+        "year": 2024,
+        "position": "14",
+        "team": "Alpine Renault",
+        "points": 23.0
+      },
+      {
+        "year": 2023,
+        "position": "12",
+        "team": "Alpine Renault",
+        "points": 58.0
+      },
+      {
+        "year": 2022,
+        "position": "8",
+        "team": "Alpine Renault",
+        "points": 92.0
+      },
+      {
+        "year": 2021,
+        "position": "11",
+        "team": "Alpine Renault",
+        "points": 74.0
+      },
+      {
+        "year": 2020,
+        "position": "12",
+        "team": "Renault",
+        "points": 62.0
+      },
+      {
+        "year": 2018,
+        "position": "12",
+        "team": "Force India Mercedes",
+        "points": 49.0
+      },
+      {
+        "year": 2017,
+        "position": "8",
+        "team": "Force India Mercedes",
+        "points": 87.0
+      },
+      {
+        "year": 2016,
+        "position": "23",
+        "team": "MRT Mercedes",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pierre Gasly",
+    "nationality": "FRA",
+    "total_points": 458.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "18",
+        "team": "Alpine",
+        "points": 22.0
+      },
+      {
+        "year": 2024,
+        "position": "10",
+        "team": "Alpine Renault",
+        "points": 42.0
+      },
+      {
+        "year": 2023,
+        "position": "11",
+        "team": "Alpine Renault",
+        "points": 62.0
+      },
+      {
+        "year": 2022,
+        "position": "14",
+        "team": "AlphaTauri RBPT",
+        "points": 23.0
+      },
+      {
+        "year": 2021,
+        "position": "9",
+        "team": "AlphaTauri Honda",
+        "points": 110.0
+      },
+      {
+        "year": 2020,
+        "position": "10",
+        "team": "AlphaTauri Honda",
+        "points": 75.0
+      },
+      {
+        "year": 2019,
+        "position": "7",
+        "team": "Scuderia Toro Rosso Honda",
+        "points": 95.0
+      },
+      {
+        "year": 2018,
+        "position": "15",
+        "team": "Scuderia Toro Rosso Honda",
+        "points": 29.0
+      },
+      {
+        "year": 2017,
+        "position": "21",
+        "team": "Toro Rosso",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mika Hakkinen",
+    "nationality": "FIN",
+    "total_points": 420.0,
+    "career_history": [
+      {
+        "year": 2001,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 37.0
+      },
+      {
+        "year": 2000,
+        "position": "2",
+        "team": "McLaren Mercedes",
+        "points": 89.0
+      },
+      {
+        "year": 1999,
+        "position": "1",
+        "team": "McLaren Mercedes",
+        "points": 76.0
+      },
+      {
+        "year": 1998,
+        "position": "1",
+        "team": "McLaren Mercedes",
+        "points": 100.0
+      },
+      {
+        "year": 1997,
+        "position": "6",
+        "team": "McLaren Mercedes",
+        "points": 27.0
+      },
+      {
+        "year": 1996,
+        "position": "5",
+        "team": "McLaren Mercedes",
+        "points": 31.0
+      },
+      {
+        "year": 1995,
+        "position": "7",
+        "team": "McLaren Mercedes",
+        "points": 17.0
+      },
+      {
+        "year": 1994,
+        "position": "4",
+        "team": "McLaren Peugeot",
+        "points": 26.0
+      },
+      {
+        "year": 1993,
+        "position": "15",
+        "team": "McLaren Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1992,
+        "position": "8",
+        "team": "Lotus Ford",
+        "points": 11.0
+      },
+      {
+        "year": 1991,
+        "position": "15",
+        "team": "Lotus Judd",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Romain Grosjean",
+    "nationality": "FRA",
+    "total_points": 391.0,
+    "career_history": [
+      {
+        "year": 2020,
+        "position": "19",
+        "team": "Haas Ferrari",
+        "points": 2.0
+      },
+      {
+        "year": 2019,
+        "position": "18",
+        "team": "Haas Ferrari",
+        "points": 8.0
+      },
+      {
+        "year": 2018,
+        "position": "14",
+        "team": "Haas Ferrari",
+        "points": 37.0
+      },
+      {
+        "year": 2017,
+        "position": "13",
+        "team": "Haas Ferrari",
+        "points": 28.0
+      },
+      {
+        "year": 2016,
+        "position": "13",
+        "team": "Haas Ferrari",
+        "points": 29.0
+      },
+      {
+        "year": 2015,
+        "position": "11",
+        "team": "Lotus Mercedes",
+        "points": 51.0
+      },
+      {
+        "year": 2014,
+        "position": "14",
+        "team": "Lotus Renault",
+        "points": 8.0
+      },
+      {
+        "year": 2013,
+        "position": "7",
+        "team": "Lotus Renault",
+        "points": 132.0
+      },
+      {
+        "year": 2012,
+        "position": "8",
+        "team": "Lotus Renault",
+        "points": 96.0
+      },
+      {
+        "year": 2009,
+        "position": "23",
+        "team": "Renault",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gerhard Berger",
+    "nationality": "AUT",
+    "total_points": 385.0,
+    "career_history": [
+      {
+        "year": 1997,
+        "position": "5",
+        "team": "Benetton Renault",
+        "points": 27.0
+      },
+      {
+        "year": 1996,
+        "position": "6",
+        "team": "Benetton Renault",
+        "points": 21.0
+      },
+      {
+        "year": 1995,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 31.0
+      },
+      {
+        "year": 1994,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 41.0
+      },
+      {
+        "year": 1993,
+        "position": "8",
+        "team": "Ferrari",
+        "points": 12.0
+      },
+      {
+        "year": 1992,
+        "position": "5",
+        "team": "McLaren Honda",
+        "points": 49.0
+      },
+      {
+        "year": 1991,
+        "position": "4",
+        "team": "McLaren Honda",
+        "points": 43.0
+      },
+      {
+        "year": 1990,
+        "position": "3",
+        "team": "McLaren Honda",
+        "points": 43.0
+      },
+      {
+        "year": 1989,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 21.0
+      },
+      {
+        "year": 1988,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 41.0
+      },
+      {
+        "year": 1987,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 36.0
+      },
+      {
+        "year": 1986,
+        "position": "7",
+        "team": "Benetton BMW",
+        "points": 17.0
+      },
+      {
+        "year": 1985,
+        "position": "20",
+        "team": "Arrows BMW",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Niki Lauda",
+    "nationality": "AUT",
+    "total_points": 380.5,
+    "career_history": [
+      {
+        "year": 1985,
+        "position": "10",
+        "team": "McLaren TAG",
+        "points": 14.0
+      },
+      {
+        "year": 1984,
+        "position": "1",
+        "team": "McLaren TAG",
+        "points": 72.0
+      },
+      {
+        "year": 1983,
+        "position": "10",
+        "team": "McLaren TAG",
+        "points": 12.0
+      },
+      {
+        "year": 1982,
+        "position": "5",
+        "team": "McLaren Ford",
+        "points": 30.0
+      },
+      {
+        "year": 1979,
+        "position": "14",
+        "team": "Brabham Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1978,
+        "position": "4",
+        "team": "Brabham Alfa Romeo",
+        "points": 44.0
+      },
+      {
+        "year": 1977,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 72.0
+      },
+      {
+        "year": 1976,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 68.0
+      },
+      {
+        "year": 1975,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 64.5
+      }
+    ]
+  },
+  {
+    "driver_name": "Damon Hill",
+    "nationality": "GBR",
+    "total_points": 360.0,
+    "career_history": [
+      {
+        "year": 1999,
+        "position": "12",
+        "team": "Jordan Mugen Honda",
+        "points": 7.0
+      },
+      {
+        "year": 1998,
+        "position": "6",
+        "team": "Jordan Mugen Honda",
+        "points": 20.0
+      },
+      {
+        "year": 1997,
+        "position": "12",
+        "team": "Arrows Yamaha",
+        "points": 7.0
+      },
+      {
+        "year": 1996,
+        "position": "1",
+        "team": "Williams Renault",
+        "points": 97.0
+      },
+      {
+        "year": 1995,
+        "position": "2",
+        "team": "Williams Renault",
+        "points": 69.0
+      },
+      {
+        "year": 1994,
+        "position": "2",
+        "team": "Williams Renault",
+        "points": 91.0
+      },
+      {
+        "year": 1993,
+        "position": "3",
+        "team": "Williams Renault",
+        "points": 69.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Ralf Schumacher",
+    "nationality": "GER",
+    "total_points": 329.0,
+    "career_history": [
+      {
+        "year": 2007,
+        "position": "16",
+        "team": "Toyota",
+        "points": 5.0
+      },
+      {
+        "year": 2006,
+        "position": "10",
+        "team": "Toyota",
+        "points": 20.0
+      },
+      {
+        "year": 2005,
+        "position": "6",
+        "team": "Toyota",
+        "points": 45.0
+      },
+      {
+        "year": 2004,
+        "position": "9",
+        "team": "Williams BMW",
+        "points": 24.0
+      },
+      {
+        "year": 2003,
+        "position": "5",
+        "team": "Williams BMW",
+        "points": 58.0
+      },
+      {
+        "year": 2002,
+        "position": "4",
+        "team": "Williams BMW",
+        "points": 42.0
+      },
+      {
+        "year": 2001,
+        "position": "4",
+        "team": "Williams BMW",
+        "points": 49.0
+      },
+      {
+        "year": 2000,
+        "position": "5",
+        "team": "Williams BMW",
+        "points": 24.0
+      },
+      {
+        "year": 1999,
+        "position": "6",
+        "team": "Williams Supertec",
+        "points": 35.0
+      },
+      {
+        "year": 1998,
+        "position": "10",
+        "team": "Jordan Mugen Honda",
+        "points": 14.0
+      },
+      {
+        "year": 1997,
+        "position": "11",
+        "team": "Jordan Peugeot",
+        "points": 13.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Lance Stroll",
+    "nationality": "CAN",
+    "total_points": 324.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "17",
+        "team": "Aston Martin",
+        "points": 32.0
+      },
+      {
+        "year": 2024,
+        "position": "13",
+        "team": "Aston Martin Aramco Mercedes",
+        "points": 24.0
+      },
+      {
+        "year": 2023,
+        "position": "10",
+        "team": "Aston Martin Aramco Mercedes",
+        "points": 74.0
+      },
+      {
+        "year": 2022,
+        "position": "15",
+        "team": "Aston Martin Aramco Mercedes",
+        "points": 18.0
+      },
+      {
+        "year": 2021,
+        "position": "13",
+        "team": "Aston Martin Mercedes",
+        "points": 34.0
+      },
+      {
+        "year": 2020,
+        "position": "11",
+        "team": "Racing Point BWT Mercedes",
+        "points": 75.0
+      },
+      {
+        "year": 2019,
+        "position": "15",
+        "team": "Racing Point BWT Mercedes",
+        "points": 21.0
+      },
+      {
+        "year": 2018,
+        "position": "18",
+        "team": "Williams Mercedes",
+        "points": 6.0
+      },
+      {
+        "year": 2017,
+        "position": "12",
+        "team": "Williams Mercedes",
+        "points": 40.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alexander Albon",
+    "nationality": "THA",
+    "total_points": 313.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "8",
+        "team": "Williams",
+        "points": 73.0
+      },
+      {
+        "year": 2024,
+        "position": "16",
+        "team": "Williams Mercedes",
+        "points": 12.0
+      },
+      {
+        "year": 2023,
+        "position": "13",
+        "team": "Williams Mercedes",
+        "points": 27.0
+      },
+      {
+        "year": 2022,
+        "position": "19",
+        "team": "Williams Mercedes",
+        "points": 4.0
+      },
+      {
+        "year": 2020,
+        "position": "7",
+        "team": "Red Bull Racing Honda",
+        "points": 105.0
+      },
+      {
+        "year": 2019,
+        "position": "8",
+        "team": "Red Bull Racing Honda",
+        "points": 92.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Juan Pablo Montoya",
+    "nationality": "COL",
+    "total_points": 307.0,
+    "career_history": [
+      {
+        "year": 2006,
+        "position": "8",
+        "team": "McLaren Mercedes",
+        "points": 26.0
+      },
+      {
+        "year": 2005,
+        "position": "4",
+        "team": "McLaren Mercedes",
+        "points": 60.0
+      },
+      {
+        "year": 2004,
+        "position": "5",
+        "team": "Williams BMW",
+        "points": 58.0
+      },
+      {
+        "year": 2003,
+        "position": "3",
+        "team": "Williams BMW",
+        "points": 82.0
+      },
+      {
+        "year": 2002,
+        "position": "3",
+        "team": "Williams BMW",
+        "points": 50.0
+      },
+      {
+        "year": 2001,
+        "position": "6",
+        "team": "Williams BMW",
+        "points": 31.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Riccardo Patrese",
+    "nationality": "ITA",
+    "total_points": 281.0,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "5",
+        "team": "Benetton Ford",
+        "points": 20.0
+      },
+      {
+        "year": 1992,
+        "position": "2",
+        "team": "Williams Renault",
+        "points": 56.0
+      },
+      {
+        "year": 1991,
+        "position": "3",
+        "team": "Williams Renault",
+        "points": 53.0
+      },
+      {
+        "year": 1990,
+        "position": "7",
+        "team": "Williams Renault",
+        "points": 23.0
+      },
+      {
+        "year": 1989,
+        "position": "3",
+        "team": "Williams Renault",
+        "points": 40.0
+      },
+      {
+        "year": 1988,
+        "position": "11",
+        "team": "Williams Judd",
+        "points": 8.0
+      },
+      {
+        "year": 1987,
+        "position": "13",
+        "team": "Williams Honda",
+        "points": 6.0
+      },
+      {
+        "year": 1986,
+        "position": "17",
+        "team": "Brabham BMW",
+        "points": 2.0
+      },
+      {
+        "year": 1984,
+        "position": "13",
+        "team": "Alfa Romeo",
+        "points": 8.0
+      },
+      {
+        "year": 1983,
+        "position": "9",
+        "team": "Brabham BMW",
+        "points": 13.0
+      },
+      {
+        "year": 1982,
+        "position": "10",
+        "team": "Brabham BMW",
+        "points": 21.0
+      },
+      {
+        "year": 1981,
+        "position": "11",
+        "team": "Arrows Ford",
+        "points": 10.0
+      },
+      {
+        "year": 1980,
+        "position": "9",
+        "team": "Arrows Ford",
+        "points": 7.0
+      },
+      {
+        "year": 1979,
+        "position": "19",
+        "team": "Arrows Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1978,
+        "position": "11",
+        "team": "Arrows Ford",
+        "points": 11.0
+      },
+      {
+        "year": 1977,
+        "position": "19",
+        "team": "Shadow Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Giancarlo Fisichella",
+    "nationality": "ITA",
+    "total_points": 275.0,
+    "career_history": [
+      {
+        "year": 2009,
+        "position": "15",
+        "team": "Ferrari",
+        "points": 8.0
+      },
+      {
+        "year": 2008,
+        "position": "19",
+        "team": "Force India Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2007,
+        "position": "8",
+        "team": "Renault",
+        "points": 21.0
+      },
+      {
+        "year": 2006,
+        "position": "4",
+        "team": "Renault",
+        "points": 72.0
+      },
+      {
+        "year": 2005,
+        "position": "5",
+        "team": "Renault",
+        "points": 58.0
+      },
+      {
+        "year": 2004,
+        "position": "11",
+        "team": "Sauber Petronas",
+        "points": 22.0
+      },
+      {
+        "year": 2003,
+        "position": "12",
+        "team": "Jordan Ford",
+        "points": 12.0
+      },
+      {
+        "year": 2002,
+        "position": "11",
+        "team": "Jordan Honda",
+        "points": 7.0
+      },
+      {
+        "year": 2001,
+        "position": "11",
+        "team": "Benetton Renault",
+        "points": 8.0
+      },
+      {
+        "year": 2000,
+        "position": "6",
+        "team": "Benetton Playlife",
+        "points": 18.0
+      },
+      {
+        "year": 1999,
+        "position": "9",
+        "team": "Benetton Playlife",
+        "points": 13.0
+      },
+      {
+        "year": 1998,
+        "position": "9",
+        "team": "Benetton Playlife",
+        "points": 16.0
+      },
+      {
+        "year": 1997,
+        "position": "8",
+        "team": "Jordan Peugeot",
+        "points": 20.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Robert Kubica",
+    "nationality": "POL",
+    "total_points": 274.0,
+    "career_history": [
+      {
+        "year": 2021,
+        "position": "20",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2019,
+        "position": "19",
+        "team": "Williams Mercedes",
+        "points": 1.0
+      },
+      {
+        "year": 2010,
+        "position": "8",
+        "team": "Renault",
+        "points": 136.0
+      },
+      {
+        "year": 2009,
+        "position": "14",
+        "team": "Sauber BMW",
+        "points": 17.0
+      },
+      {
+        "year": 2008,
+        "position": "4",
+        "team": "Sauber BMW",
+        "points": 75.0
+      },
+      {
+        "year": 2007,
+        "position": "6",
+        "team": "Sauber BMW",
+        "points": 39.0
+      },
+      {
+        "year": 2006,
+        "position": "16",
+        "team": "Sauber BMW",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nick Heidfeld",
+    "nationality": "GER",
+    "total_points": 259.0,
+    "career_history": [
+      {
+        "year": 2011,
+        "position": "11",
+        "team": "Renault",
+        "points": 34.0
+      },
+      {
+        "year": 2010,
+        "position": "18",
+        "team": "Sauber Ferrari",
+        "points": 6.0
+      },
+      {
+        "year": 2009,
+        "position": "13",
+        "team": "Sauber BMW",
+        "points": 19.0
+      },
+      {
+        "year": 2008,
+        "position": "6",
+        "team": "Sauber BMW",
+        "points": 60.0
+      },
+      {
+        "year": 2007,
+        "position": "5",
+        "team": "Sauber BMW",
+        "points": 61.0
+      },
+      {
+        "year": 2006,
+        "position": "9",
+        "team": "Sauber BMW",
+        "points": 23.0
+      },
+      {
+        "year": 2005,
+        "position": "11",
+        "team": "Williams BMW",
+        "points": 28.0
+      },
+      {
+        "year": 2004,
+        "position": "18",
+        "team": "Jordan Ford",
+        "points": 3.0
+      },
+      {
+        "year": 2003,
+        "position": "14",
+        "team": "Sauber Petronas",
+        "points": 6.0
+      },
+      {
+        "year": 2002,
+        "position": "10",
+        "team": "Sauber Petronas",
+        "points": 7.0
+      },
+      {
+        "year": 2001,
+        "position": "8",
+        "team": "Sauber Petronas",
+        "points": 12.0
+      },
+      {
+        "year": 2000,
+        "position": "21",
+        "team": "Prost Peugeot",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Carlos Reutemann",
+    "nationality": "ARG",
+    "total_points": 247.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "15",
+        "team": "Williams Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1981,
+        "position": "2",
+        "team": "Williams Ford",
+        "points": 49.0
+      },
+      {
+        "year": 1980,
+        "position": "3",
+        "team": "Williams Ford",
+        "points": 42.0
+      },
+      {
+        "year": 1979,
+        "position": "6",
+        "team": "Lotus Ford",
+        "points": 20.0
+      },
+      {
+        "year": 1978,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 48.0
+      },
+      {
+        "year": 1977,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 42.0
+      },
+      {
+        "year": 1976,
+        "position": "16",
+        "team": "Ferrari",
+        "points": 3.0
+      },
+      {
+        "year": 1975,
+        "position": "3",
+        "team": "Brabham Ford",
+        "points": 37.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jarno Trulli",
+    "nationality": "ITA",
+    "total_points": 246.5,
+    "career_history": [
+      {
+        "year": 2011,
+        "position": "21",
+        "team": "Lotus Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2010,
+        "position": "21",
+        "team": "Lotus Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2009,
+        "position": "8",
+        "team": "Toyota",
+        "points": 32.5
+      },
+      {
+        "year": 2008,
+        "position": "9",
+        "team": "Toyota",
+        "points": 31.0
+      },
+      {
+        "year": 2007,
+        "position": "13",
+        "team": "Toyota",
+        "points": 8.0
+      },
+      {
+        "year": 2006,
+        "position": "12",
+        "team": "Toyota",
+        "points": 15.0
+      },
+      {
+        "year": 2005,
+        "position": "7",
+        "team": "Toyota",
+        "points": 43.0
+      },
+      {
+        "year": 2004,
+        "position": "6",
+        "team": "Toyota",
+        "points": 46.0
+      },
+      {
+        "year": 2003,
+        "position": "8",
+        "team": "Renault",
+        "points": 33.0
+      },
+      {
+        "year": 2002,
+        "position": "8",
+        "team": "Renault",
+        "points": 9.0
+      },
+      {
+        "year": 2001,
+        "position": "9",
+        "team": "Jordan Honda",
+        "points": 12.0
+      },
+      {
+        "year": 2000,
+        "position": "10",
+        "team": "Jordan Mugen Honda",
+        "points": 6.0
+      },
+      {
+        "year": 1999,
+        "position": "11",
+        "team": "Prost Peugeot",
+        "points": 7.0
+      },
+      {
+        "year": 1998,
+        "position": "17",
+        "team": "Prost Peugeot",
+        "points": 1.0
+      },
+      {
+        "year": 1997,
+        "position": "15",
+        "team": "Prost Mugen Honda",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jean Alesi",
+    "nationality": "FRA",
+    "total_points": 241.0,
+    "career_history": [
+      {
+        "year": 2001,
+        "position": "15",
+        "team": "Jordan Honda",
+        "points": 5.0
+      },
+      {
+        "year": 2000,
+        "position": "22",
+        "team": "Prost Peugeot",
+        "points": 0.0
+      },
+      {
+        "year": 1999,
+        "position": "16",
+        "team": "Sauber Petronas",
+        "points": 2.0
+      },
+      {
+        "year": 1998,
+        "position": "11",
+        "team": "Sauber Petronas",
+        "points": 9.0
+      },
+      {
+        "year": 1997,
+        "position": "4",
+        "team": "Benetton Renault",
+        "points": 36.0
+      },
+      {
+        "year": 1996,
+        "position": "4",
+        "team": "Benetton Renault",
+        "points": 47.0
+      },
+      {
+        "year": 1995,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 42.0
+      },
+      {
+        "year": 1994,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 24.0
+      },
+      {
+        "year": 1993,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 16.0
+      },
+      {
+        "year": 1992,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 18.0
+      },
+      {
+        "year": 1991,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 21.0
+      },
+      {
+        "year": 1990,
+        "position": "9",
+        "team": "Tyrrell Ford",
+        "points": 13.0
+      },
+      {
+        "year": 1989,
+        "position": "9",
+        "team": "Tyrrell Ford",
+        "points": 8.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jacques Villeneuve",
+    "nationality": "CAN",
+    "total_points": 235.0,
+    "career_history": [
+      {
+        "year": 2006,
+        "position": "15",
+        "team": "Sauber BMW",
+        "points": 7.0
+      },
+      {
+        "year": 2005,
+        "position": "14",
+        "team": "Sauber Petronas",
+        "points": 9.0
+      },
+      {
+        "year": 2004,
+        "position": "21",
+        "team": "Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2003,
+        "position": "16",
+        "team": "BAR Honda",
+        "points": 6.0
+      },
+      {
+        "year": 2002,
+        "position": "12",
+        "team": "BAR Honda",
+        "points": 4.0
+      },
+      {
+        "year": 2001,
+        "position": "7",
+        "team": "BAR Honda",
+        "points": 12.0
+      },
+      {
+        "year": 2000,
+        "position": "7",
+        "team": "BAR Honda",
+        "points": 17.0
+      },
+      {
+        "year": 1998,
+        "position": "5",
+        "team": "Williams Mecachrome",
+        "points": 21.0
+      },
+      {
+        "year": 1997,
+        "position": "1",
+        "team": "Williams Renault",
+        "points": 81.0
+      },
+      {
+        "year": 1996,
+        "position": "2",
+        "team": "Williams Renault",
+        "points": 78.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jacques Laffite",
+    "nationality": "FRA",
+    "total_points": 228.0,
+    "career_history": [
+      {
+        "year": 1986,
+        "position": "8",
+        "team": "Ligier Renault",
+        "points": 14.0
+      },
+      {
+        "year": 1985,
+        "position": "9",
+        "team": "Ligier Renault",
+        "points": 16.0
+      },
+      {
+        "year": 1984,
+        "position": "14",
+        "team": "Williams Honda",
+        "points": 5.0
+      },
+      {
+        "year": 1983,
+        "position": "11",
+        "team": "Williams Honda",
+        "points": 11.0
+      },
+      {
+        "year": 1982,
+        "position": "17",
+        "team": "Ligier Matra",
+        "points": 5.0
+      },
+      {
+        "year": 1981,
+        "position": "4",
+        "team": "Ligier Matra",
+        "points": 44.0
+      },
+      {
+        "year": 1980,
+        "position": "4",
+        "team": "Ligier Ford",
+        "points": 34.0
+      },
+      {
+        "year": 1979,
+        "position": "4",
+        "team": "Ligier Ford",
+        "points": 36.0
+      },
+      {
+        "year": 1978,
+        "position": "8",
+        "team": "Ligier Matra",
+        "points": 19.0
+      },
+      {
+        "year": 1977,
+        "position": "10",
+        "team": "Ligier Matra",
+        "points": 18.0
+      },
+      {
+        "year": 1976,
+        "position": "7",
+        "team": "Ligier Matra",
+        "points": 20.0
+      },
+      {
+        "year": 1975,
+        "position": "12",
+        "team": "Frank Williams Racing Cars/Williams",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Kevin Magnussen",
+    "nationality": "DEN",
+    "total_points": 202.0,
+    "career_history": [
+      {
+        "year": 2024,
+        "position": "15",
+        "team": "Haas Ferrari",
+        "points": 16.0
+      },
+      {
+        "year": 2023,
+        "position": "19",
+        "team": "Haas Ferrari",
+        "points": 3.0
+      },
+      {
+        "year": 2022,
+        "position": "13",
+        "team": "Haas Ferrari",
+        "points": 25.0
+      },
+      {
+        "year": 2020,
+        "position": "20",
+        "team": "Haas Ferrari",
+        "points": 1.0
+      },
+      {
+        "year": 2019,
+        "position": "16",
+        "team": "Haas Ferrari",
+        "points": 20.0
+      },
+      {
+        "year": 2018,
+        "position": "9",
+        "team": "Haas Ferrari",
+        "points": 56.0
+      },
+      {
+        "year": 2017,
+        "position": "14",
+        "team": "Haas Ferrari",
+        "points": 19.0
+      },
+      {
+        "year": 2016,
+        "position": "16",
+        "team": "Renault",
+        "points": 7.0
+      },
+      {
+        "year": 2014,
+        "position": "11",
+        "team": "McLaren Mercedes",
+        "points": 55.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Daniil Kvyat",
+    "nationality": "RUS",
+    "total_points": 202.0,
+    "career_history": [
+      {
+        "year": 2020,
+        "position": "14",
+        "team": "AlphaTauri Honda",
+        "points": 32.0
+      },
+      {
+        "year": 2019,
+        "position": "13",
+        "team": "Scuderia Toro Rosso Honda",
+        "points": 37.0
+      },
+      {
+        "year": 2017,
+        "position": "19",
+        "team": "Toro Rosso",
+        "points": 5.0
+      },
+      {
+        "year": 2016,
+        "position": "14",
+        "team": "Toro Rosso Ferrari",
+        "points": 25.0
+      },
+      {
+        "year": 2015,
+        "position": "7",
+        "team": "Red Bull Racing Renault",
+        "points": 95.0
+      },
+      {
+        "year": 2014,
+        "position": "15",
+        "team": "STR Renault",
+        "points": 8.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jody Scheckter",
+    "nationality": "RSA",
+    "total_points": 201.0,
+    "career_history": [
+      {
+        "year": 1980,
+        "position": "19",
+        "team": "Ferrari",
+        "points": 2.0
+      },
+      {
+        "year": 1979,
+        "position": "1",
+        "team": "Ferrari",
+        "points": 51.0
+      },
+      {
+        "year": 1978,
+        "position": "7",
+        "team": "Wolf Ford",
+        "points": 24.0
+      },
+      {
+        "year": 1977,
+        "position": "2",
+        "team": "Wolf Ford",
+        "points": 55.0
+      },
+      {
+        "year": 1976,
+        "position": "3",
+        "team": "Tyrrell Ford",
+        "points": 49.0
+      },
+      {
+        "year": 1975,
+        "position": "7",
+        "team": "Tyrrell Ford",
+        "points": 20.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alan Jones",
+    "nationality": "AUS",
+    "total_points": 199.0,
+    "career_history": [
+      {
+        "year": 1986,
+        "position": "12",
+        "team": "Lola Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1981,
+        "position": "3",
+        "team": "Williams Ford",
+        "points": 46.0
+      },
+      {
+        "year": 1980,
+        "position": "1",
+        "team": "Williams Ford",
+        "points": 67.0
+      },
+      {
+        "year": 1979,
+        "position": "3",
+        "team": "Williams Ford",
+        "points": 40.0
+      },
+      {
+        "year": 1978,
+        "position": "11",
+        "team": "Williams Ford",
+        "points": 11.0
+      },
+      {
+        "year": 1977,
+        "position": "7",
+        "team": "Shadow Ford",
+        "points": 22.0
+      },
+      {
+        "year": 1976,
+        "position": "14",
+        "team": "Surtees Ford",
+        "points": 7.0
+      },
+      {
+        "year": 1975,
+        "position": "17",
+        "team": "Hill Ford",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Eddie Irvine",
+    "nationality": "GBR",
+    "total_points": 191.0,
+    "career_history": [
+      {
+        "year": 2002,
+        "position": "9",
+        "team": "Jaguar Cosworth",
+        "points": 8.0
+      },
+      {
+        "year": 2001,
+        "position": "12",
+        "team": "Jaguar Cosworth",
+        "points": 6.0
+      },
+      {
+        "year": 2000,
+        "position": "13",
+        "team": "Jaguar Cosworth",
+        "points": 4.0
+      },
+      {
+        "year": 1999,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 74.0
+      },
+      {
+        "year": 1998,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 47.0
+      },
+      {
+        "year": 1997,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 24.0
+      },
+      {
+        "year": 1996,
+        "position": "10",
+        "team": "Ferrari",
+        "points": 11.0
+      },
+      {
+        "year": 1995,
+        "position": "12",
+        "team": "Jordan Peugeot",
+        "points": 10.0
+      },
+      {
+        "year": 1994,
+        "position": "16",
+        "team": "Jordan Hart",
+        "points": 6.0
+      },
+      {
+        "year": 1993,
+        "position": "20",
+        "team": "Jordan Hart",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Michele Alboreto",
+    "nationality": "ITA",
+    "total_points": 186.5,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "24",
+        "team": "Minardi Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1992,
+        "position": "10",
+        "team": "Footwork Mugen Honda",
+        "points": 6.0
+      },
+      {
+        "year": 1989,
+        "position": "11",
+        "team": "Lola Lamborghini",
+        "points": 6.0
+      },
+      {
+        "year": 1988,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 24.0
+      },
+      {
+        "year": 1987,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 17.0
+      },
+      {
+        "year": 1986,
+        "position": "9",
+        "team": "Ferrari",
+        "points": 14.0
+      },
+      {
+        "year": 1985,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 53.0
+      },
+      {
+        "year": 1984,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 30.5
+      },
+      {
+        "year": 1983,
+        "position": "12",
+        "team": "Tyrrell Ford",
+        "points": 10.0
+      },
+      {
+        "year": 1982,
+        "position": "7",
+        "team": "Tyrrell Ford",
+        "points": 25.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Rene Arnoux",
+    "nationality": "FRA",
+    "total_points": 181.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "23",
+        "team": "Ligier Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1987,
+        "position": "19",
+        "team": "Ligier Megatron",
+        "points": 1.0
+      },
+      {
+        "year": 1986,
+        "position": "10",
+        "team": "Ligier Renault",
+        "points": 14.0
+      },
+      {
+        "year": 1985,
+        "position": "18",
+        "team": "Ferrari",
+        "points": 3.0
+      },
+      {
+        "year": 1984,
+        "position": "6",
+        "team": "Ferrari",
+        "points": 27.0
+      },
+      {
+        "year": 1983,
+        "position": "3",
+        "team": "Ferrari",
+        "points": 49.0
+      },
+      {
+        "year": 1982,
+        "position": "6",
+        "team": "Renault",
+        "points": 28.0
+      },
+      {
+        "year": 1981,
+        "position": "9",
+        "team": "Renault",
+        "points": 11.0
+      },
+      {
+        "year": 1980,
+        "position": "6",
+        "team": "Renault",
+        "points": 29.0
+      },
+      {
+        "year": 1979,
+        "position": "8",
+        "team": "Renault",
+        "points": 17.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Heinz-Harald Frentzen",
+    "nationality": "GER",
+    "total_points": 174.0,
+    "career_history": [
+      {
+        "year": 2003,
+        "position": "11",
+        "team": "Sauber Petronas",
+        "points": 13.0
+      },
+      {
+        "year": 2002,
+        "position": "18",
+        "team": "Sauber Petronas",
+        "points": 2.0
+      },
+      {
+        "year": 2001,
+        "position": "13",
+        "team": "Prost Acer",
+        "points": 6.0
+      },
+      {
+        "year": 2000,
+        "position": "9",
+        "team": "Jordan Mugen Honda",
+        "points": 11.0
+      },
+      {
+        "year": 1999,
+        "position": "3",
+        "team": "Jordan Mugen Honda",
+        "points": 54.0
+      },
+      {
+        "year": 1998,
+        "position": "7",
+        "team": "Williams Mecachrome",
+        "points": 17.0
+      },
+      {
+        "year": 1997,
+        "position": "2",
+        "team": "Williams Renault",
+        "points": 42.0
+      },
+      {
+        "year": 1996,
+        "position": "12",
+        "team": "Sauber Ford",
+        "points": 7.0
+      },
+      {
+        "year": 1995,
+        "position": "9",
+        "team": "Sauber Ford",
+        "points": 15.0
+      },
+      {
+        "year": 1994,
+        "position": "13",
+        "team": "Sauber Mercedes",
+        "points": 7.0
+      }
+    ]
+  },
+  {
+    "driver_name": "John Watson",
+    "nationality": "GBR",
+    "total_points": 163.0,
+    "career_history": [
+      {
+        "year": 1983,
+        "position": "6",
+        "team": "McLaren Ford",
+        "points": 22.0
+      },
+      {
+        "year": 1982,
+        "position": "2",
+        "team": "McLaren Ford",
+        "points": 39.0
+      },
+      {
+        "year": 1981,
+        "position": "6",
+        "team": "McLaren Ford",
+        "points": 27.0
+      },
+      {
+        "year": 1980,
+        "position": "10",
+        "team": "McLaren Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1979,
+        "position": "9",
+        "team": "McLaren Ford",
+        "points": 15.0
+      },
+      {
+        "year": 1978,
+        "position": "6",
+        "team": "Brabham Alfa Romeo",
+        "points": 25.0
+      },
+      {
+        "year": 1977,
+        "position": "13",
+        "team": "Brabham Alfa Romeo",
+        "points": 9.0
+      },
+      {
+        "year": 1976,
+        "position": "7",
+        "team": "Penske Ford",
+        "points": 20.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mario Andretti",
+    "nationality": "USA",
+    "total_points": 160.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "19",
+        "team": "Ferrari",
+        "points": 4.0
+      },
+      {
+        "year": 1981,
+        "position": "17",
+        "team": "Alfa Romeo",
+        "points": 3.0
+      },
+      {
+        "year": 1980,
+        "position": "20",
+        "team": "Lotus Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1979,
+        "position": "10",
+        "team": "Lotus Ford",
+        "points": 14.0
+      },
+      {
+        "year": 1978,
+        "position": "1",
+        "team": "Lotus Ford",
+        "points": 64.0
+      },
+      {
+        "year": 1977,
+        "position": "3",
+        "team": "Lotus Ford",
+        "points": 47.0
+      },
+      {
+        "year": 1976,
+        "position": "6",
+        "team": "Lotus Ford",
+        "points": 22.0
+      },
+      {
+        "year": 1975,
+        "position": "14",
+        "team": "Parnelli Ford",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Keke Rosberg",
+    "nationality": "FIN",
+    "total_points": 159.5,
+    "career_history": [
+      {
+        "year": 1986,
+        "position": "6",
+        "team": "McLaren TAG",
+        "points": 22.0
+      },
+      {
+        "year": 1985,
+        "position": "3",
+        "team": "Williams Honda",
+        "points": 40.0
+      },
+      {
+        "year": 1984,
+        "position": "8",
+        "team": "Williams Honda",
+        "points": 20.5
+      },
+      {
+        "year": 1983,
+        "position": "5",
+        "team": "Williams Honda",
+        "points": 27.0
+      },
+      {
+        "year": 1982,
+        "position": "1",
+        "team": "Williams Ford",
+        "points": 44.0
+      },
+      {
+        "year": 1980,
+        "position": "10",
+        "team": "Fittipaldi Ford",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "James Hunt",
+    "nationality": "GBR",
+    "total_points": 150.0,
+    "career_history": [
+      {
+        "year": 1978,
+        "position": "13",
+        "team": "McLaren Ford",
+        "points": 8.0
+      },
+      {
+        "year": 1977,
+        "position": "5",
+        "team": "McLaren Ford",
+        "points": 40.0
+      },
+      {
+        "year": 1976,
+        "position": "1",
+        "team": "McLaren Ford",
+        "points": 69.0
+      },
+      {
+        "year": 1975,
+        "position": "4",
+        "team": "Hesketh Ford",
+        "points": 33.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Kimi Antonelli",
+    "nationality": "ITA",
+    "total_points": 150.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "7",
+        "team": "Mercedes",
+        "points": 150.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Thierry Boutsen",
+    "nationality": "BEL",
+    "total_points": 132.0,
+    "career_history": [
+      {
+        "year": 1992,
+        "position": "14",
+        "team": "Ligier Renault",
+        "points": 2.0
+      },
+      {
+        "year": 1990,
+        "position": "6",
+        "team": "Williams Renault",
+        "points": 34.0
+      },
+      {
+        "year": 1989,
+        "position": "5",
+        "team": "Williams Renault",
+        "points": 37.0
+      },
+      {
+        "year": 1988,
+        "position": "4",
+        "team": "Benetton Ford",
+        "points": 27.0
+      },
+      {
+        "year": 1987,
+        "position": "8",
+        "team": "Benetton Ford",
+        "points": 16.0
+      },
+      {
+        "year": 1985,
+        "position": "11",
+        "team": "Arrows BMW",
+        "points": 11.0
+      },
+      {
+        "year": 1984,
+        "position": "15",
+        "team": "Arrows BMW",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Patrick Depailler",
+    "nationality": "FRA",
+    "total_points": 125.0,
+    "career_history": [
+      {
+        "year": 1979,
+        "position": "6",
+        "team": "Ligier Ford",
+        "points": 20.0
+      },
+      {
+        "year": 1978,
+        "position": "5",
+        "team": "Tyrrell Ford",
+        "points": 34.0
+      },
+      {
+        "year": 1977,
+        "position": "8",
+        "team": "Tyrrell Ford",
+        "points": 20.0
+      },
+      {
+        "year": 1976,
+        "position": "4",
+        "team": "Tyrrell Ford",
+        "points": 39.0
+      },
+      {
+        "year": 1975,
+        "position": "9",
+        "team": "Tyrrell Ford",
+        "points": 12.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Kamui Kobayashi",
+    "nationality": "JPN",
+    "total_points": 125.0,
+    "career_history": [
+      {
+        "year": 2014,
+        "position": "22",
+        "team": "Caterham Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2012,
+        "position": "12",
+        "team": "Sauber Ferrari",
+        "points": 60.0
+      },
+      {
+        "year": 2011,
+        "position": "12",
+        "team": "Sauber Ferrari",
+        "points": 30.0
+      },
+      {
+        "year": 2010,
+        "position": "12",
+        "team": "Sauber Ferrari",
+        "points": 32.0
+      },
+      {
+        "year": 2009,
+        "position": "18",
+        "team": "Toyota",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Adrian Sutil",
+    "nationality": "GER",
+    "total_points": 124.0,
+    "career_history": [
+      {
+        "year": 2014,
+        "position": "18",
+        "team": "Sauber Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2013,
+        "position": "13",
+        "team": "Force India Mercedes",
+        "points": 29.0
+      },
+      {
+        "year": 2011,
+        "position": "9",
+        "team": "Force India Mercedes",
+        "points": 42.0
+      },
+      {
+        "year": 2010,
+        "position": "11",
+        "team": "Force India Mercedes",
+        "points": 47.0
+      },
+      {
+        "year": 2009,
+        "position": "17",
+        "team": "Force India Mercedes",
+        "points": 5.0
+      },
+      {
+        "year": 2008,
+        "position": "20",
+        "team": "Force India Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2007,
+        "position": "19",
+        "team": "Spyker Ferrari",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Yuki Tsunoda",
+    "nationality": "JPN",
+    "total_points": 124.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "15",
+        "team": "Red Bull Racing",
+        "points": 33.0
+      },
+      {
+        "year": 2024,
+        "position": "12",
+        "team": "RB Honda RBPT",
+        "points": 30.0
+      },
+      {
+        "year": 2023,
+        "position": "14",
+        "team": "AlphaTauri Honda RBPT",
+        "points": 17.0
+      },
+      {
+        "year": 2022,
+        "position": "17",
+        "team": "AlphaTauri RBPT",
+        "points": 12.0
+      },
+      {
+        "year": 2021,
+        "position": "14",
+        "team": "AlphaTauri Honda",
+        "points": 32.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Elio de Angelis",
+    "nationality": "ITA",
+    "total_points": 122.0,
+    "career_history": [
+      {
+        "year": 1985,
+        "position": "5",
+        "team": "Lotus Renault",
+        "points": 33.0
+      },
+      {
+        "year": 1984,
+        "position": "3",
+        "team": "Lotus Renault",
+        "points": 34.0
+      },
+      {
+        "year": 1983,
+        "position": "17",
+        "team": "Lotus Renault",
+        "points": 2.0
+      },
+      {
+        "year": 1982,
+        "position": "9",
+        "team": "Lotus Ford",
+        "points": 23.0
+      },
+      {
+        "year": 1981,
+        "position": "8",
+        "team": "Lotus Ford",
+        "points": 14.0
+      },
+      {
+        "year": 1980,
+        "position": "7",
+        "team": "Lotus Ford",
+        "points": 13.0
+      },
+      {
+        "year": 1979,
+        "position": "15",
+        "team": "Shadow Ford",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Paul di Resta",
+    "nationality": "GBR",
+    "total_points": 121.0,
+    "career_history": [
+      {
+        "year": 2013,
+        "position": "12",
+        "team": "Force India Mercedes",
+        "points": 48.0
+      },
+      {
+        "year": 2012,
+        "position": "14",
+        "team": "Force India Mercedes",
+        "points": 46.0
+      },
+      {
+        "year": 2011,
+        "position": "13",
+        "team": "Force India Mercedes",
+        "points": 27.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Heikki Kovalainen",
+    "nationality": "FIN",
+    "total_points": 105.0,
+    "career_history": [
+      {
+        "year": 2013,
+        "position": "21",
+        "team": "Lotus Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2012,
+        "position": "22",
+        "team": "Caterham Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2011,
+        "position": "22",
+        "team": "Lotus Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2010,
+        "position": "20",
+        "team": "Lotus Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2009,
+        "position": "12",
+        "team": "McLaren Mercedes",
+        "points": 22.0
+      },
+      {
+        "year": 2008,
+        "position": "7",
+        "team": "McLaren Mercedes",
+        "points": 53.0
+      },
+      {
+        "year": 2007,
+        "position": "7",
+        "team": "Renault",
+        "points": 30.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Patrick Tambay",
+    "nationality": "FRA",
+    "total_points": 103.0,
+    "career_history": [
+      {
+        "year": 1986,
+        "position": "16",
+        "team": "Lola Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1985,
+        "position": "12",
+        "team": "Renault",
+        "points": 11.0
+      },
+      {
+        "year": 1984,
+        "position": "11",
+        "team": "Renault",
+        "points": 11.0
+      },
+      {
+        "year": 1983,
+        "position": "4",
+        "team": "Ferrari",
+        "points": 40.0
+      },
+      {
+        "year": 1982,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 25.0
+      },
+      {
+        "year": 1981,
+        "position": "18",
+        "team": "Ligier Matra",
+        "points": 1.0
+      },
+      {
+        "year": 1978,
+        "position": "13",
+        "team": "McLaren Ford",
+        "points": 8.0
+      },
+      {
+        "year": 1977,
+        "position": "17",
+        "team": "Ensign Ford",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gilles Villeneuve",
+    "nationality": "CAN",
+    "total_points": 101.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "15",
+        "team": "Ferrari",
+        "points": 6.0
+      },
+      {
+        "year": 1981,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 25.0
+      },
+      {
+        "year": 1980,
+        "position": "10",
+        "team": "Ferrari",
+        "points": 6.0
+      },
+      {
+        "year": 1979,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 47.0
+      },
+      {
+        "year": 1978,
+        "position": "9",
+        "team": "Ferrari",
+        "points": 17.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Didier Pironi",
+    "nationality": "FRA",
+    "total_points": 101.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "2",
+        "team": "Ferrari",
+        "points": 39.0
+      },
+      {
+        "year": 1981,
+        "position": "13",
+        "team": "Ferrari",
+        "points": 9.0
+      },
+      {
+        "year": 1980,
+        "position": "5",
+        "team": "Ligier Ford",
+        "points": 32.0
+      },
+      {
+        "year": 1979,
+        "position": "10",
+        "team": "Tyrrell Ford",
+        "points": 14.0
+      },
+      {
+        "year": 1978,
+        "position": "15",
+        "team": "Tyrrell Ford",
+        "points": 7.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Martin Brundle",
+    "nationality": "GBR",
+    "total_points": 98.0,
+    "career_history": [
+      {
+        "year": 1996,
+        "position": "11",
+        "team": "Jordan Peugeot",
+        "points": 8.0
+      },
+      {
+        "year": 1995,
+        "position": "13",
+        "team": "Ligier Mugen Honda",
+        "points": 7.0
+      },
+      {
+        "year": 1994,
+        "position": "7",
+        "team": "McLaren Peugeot",
+        "points": 16.0
+      },
+      {
+        "year": 1993,
+        "position": "7",
+        "team": "Ligier Renault",
+        "points": 13.0
+      },
+      {
+        "year": 1992,
+        "position": "6",
+        "team": "Benetton Ford",
+        "points": 38.0
+      },
+      {
+        "year": 1991,
+        "position": "15",
+        "team": "Brabham Yamaha",
+        "points": 2.0
+      },
+      {
+        "year": 1989,
+        "position": "20",
+        "team": "Brabham Judd",
+        "points": 4.0
+      },
+      {
+        "year": 1987,
+        "position": "18",
+        "team": "Zakspeed",
+        "points": 2.0
+      },
+      {
+        "year": 1986,
+        "position": "11",
+        "team": "Tyrrell Renault",
+        "points": 8.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Johnny Herbert",
+    "nationality": "GBR",
+    "total_points": 98.0,
+    "career_history": [
+      {
+        "year": 2000,
+        "position": "18",
+        "team": "Jaguar Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 1999,
+        "position": "8",
+        "team": "Stewart Ford",
+        "points": 15.0
+      },
+      {
+        "year": 1998,
+        "position": "15",
+        "team": "Sauber Petronas",
+        "points": 1.0
+      },
+      {
+        "year": 1997,
+        "position": "10",
+        "team": "Sauber Petronas",
+        "points": 15.0
+      },
+      {
+        "year": 1996,
+        "position": "14",
+        "team": "Sauber Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1995,
+        "position": "4",
+        "team": "Benetton Renault",
+        "points": 45.0
+      },
+      {
+        "year": 1993,
+        "position": "9",
+        "team": "Lotus Ford",
+        "points": 11.0
+      },
+      {
+        "year": 1992,
+        "position": "16",
+        "team": "Lotus Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1989,
+        "position": "14",
+        "team": "Tyrrell Ford",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Clay Regazzoni",
+    "nationality": "SUI",
+    "total_points": 94.0,
+    "career_history": [
+      {
+        "year": 1979,
+        "position": "5",
+        "team": "Williams Ford",
+        "points": 29.0
+      },
+      {
+        "year": 1978,
+        "position": "16",
+        "team": "Shadow Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1977,
+        "position": "17",
+        "team": "Ensign Ford",
+        "points": 5.0
+      },
+      {
+        "year": 1976,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 31.0
+      },
+      {
+        "year": 1975,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 25.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Stefan Johansson",
+    "nationality": "SWE",
+    "total_points": 88.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "11",
+        "team": "Onyx Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1987,
+        "position": "6",
+        "team": "McLaren TAG",
+        "points": 30.0
+      },
+      {
+        "year": 1986,
+        "position": "5",
+        "team": "Ferrari",
+        "points": 23.0
+      },
+      {
+        "year": 1985,
+        "position": "7",
+        "team": "Ferrari",
+        "points": 26.0
+      },
+      {
+        "year": 1984,
+        "position": "17",
+        "team": "Toleman Hart",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Emerson Fittipaldi",
+    "nationality": "BRA",
+    "total_points": 82.0,
+    "career_history": [
+      {
+        "year": 1980,
+        "position": "15",
+        "team": "Fittipaldi Ford",
+        "points": 5.0
+      },
+      {
+        "year": 1979,
+        "position": "21",
+        "team": "Fittipaldi Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1978,
+        "position": "9",
+        "team": "Fittipaldi Ford",
+        "points": 17.0
+      },
+      {
+        "year": 1977,
+        "position": "12",
+        "team": "Fittipaldi Ford",
+        "points": 11.0
+      },
+      {
+        "year": 1976,
+        "position": "16",
+        "team": "Fittipaldi Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1975,
+        "position": "2",
+        "team": "McLaren Ford",
+        "points": 45.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Olivier Panis",
+    "nationality": "FRA",
+    "total_points": 76.0,
+    "career_history": [
+      {
+        "year": 2004,
+        "position": "14",
+        "team": "Toyota",
+        "points": 6.0
+      },
+      {
+        "year": 2003,
+        "position": "15",
+        "team": "Toyota",
+        "points": 6.0
+      },
+      {
+        "year": 2002,
+        "position": "14",
+        "team": "BAR Honda",
+        "points": 3.0
+      },
+      {
+        "year": 2001,
+        "position": "14",
+        "team": "BAR Honda",
+        "points": 5.0
+      },
+      {
+        "year": 1999,
+        "position": "15",
+        "team": "Prost Peugeot",
+        "points": 2.0
+      },
+      {
+        "year": 1998,
+        "position": "19",
+        "team": "Prost Peugeot",
+        "points": 0.0
+      },
+      {
+        "year": 1997,
+        "position": "9",
+        "team": "Prost Mugen Honda",
+        "points": 16.0
+      },
+      {
+        "year": 1996,
+        "position": "9",
+        "team": "Ligier Mugen Honda",
+        "points": 13.0
+      },
+      {
+        "year": 1995,
+        "position": "8",
+        "team": "Ligier Mugen Honda",
+        "points": 16.0
+      },
+      {
+        "year": 1994,
+        "position": "11",
+        "team": "Ligier Renault",
+        "points": 9.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pastor Maldonado",
+    "nationality": "VEN",
+    "total_points": 76.0,
+    "career_history": [
+      {
+        "year": 2015,
+        "position": "14",
+        "team": "Lotus Mercedes",
+        "points": 27.0
+      },
+      {
+        "year": 2014,
+        "position": "16",
+        "team": "Lotus Renault",
+        "points": 2.0
+      },
+      {
+        "year": 2013,
+        "position": "18",
+        "team": "Williams Renault",
+        "points": 1.0
+      },
+      {
+        "year": 2012,
+        "position": "15",
+        "team": "Williams Renault",
+        "points": 45.0
+      },
+      {
+        "year": 2011,
+        "position": "19",
+        "team": "Williams Cosworth",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Ronnie Peterson",
+    "nationality": "SWE",
+    "total_points": 74.0,
+    "career_history": [
+      {
+        "year": 1978,
+        "position": "2",
+        "team": "Lotus Ford",
+        "points": 51.0
+      },
+      {
+        "year": 1977,
+        "position": "14",
+        "team": "Tyrrell Ford",
+        "points": 7.0
+      },
+      {
+        "year": 1976,
+        "position": "11",
+        "team": "March Ford",
+        "points": 10.0
+      },
+      {
+        "year": 1975,
+        "position": "12",
+        "team": "Lotus Ford",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jochen Mass",
+    "nationality": "GER",
+    "total_points": 71.0,
+    "career_history": [
+      {
+        "year": 1980,
+        "position": "17",
+        "team": "Arrows Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1979,
+        "position": "15",
+        "team": "Arrows Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1977,
+        "position": "6",
+        "team": "McLaren Ford",
+        "points": 25.0
+      },
+      {
+        "year": 1976,
+        "position": "9",
+        "team": "McLaren Ford",
+        "points": 19.0
+      },
+      {
+        "year": 1975,
+        "position": "7",
+        "team": "McLaren Ford",
+        "points": 20.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Derek Warwick",
+    "nationality": "GBR",
+    "total_points": 71.0,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "16",
+        "team": "Footwork Mugen Honda",
+        "points": 4.0
+      },
+      {
+        "year": 1990,
+        "position": "14",
+        "team": "Lotus Lamborghini",
+        "points": 3.0
+      },
+      {
+        "year": 1989,
+        "position": "10",
+        "team": "Arrows Ford",
+        "points": 7.0
+      },
+      {
+        "year": 1988,
+        "position": "8",
+        "team": "Arrows Megatron",
+        "points": 17.0
+      },
+      {
+        "year": 1987,
+        "position": "16",
+        "team": "Arrows Megatron",
+        "points": 3.0
+      },
+      {
+        "year": 1985,
+        "position": "14",
+        "team": "Renault",
+        "points": 5.0
+      },
+      {
+        "year": 1984,
+        "position": "7",
+        "team": "Renault",
+        "points": 23.0
+      },
+      {
+        "year": 1983,
+        "position": "14",
+        "team": "Toleman Hart",
+        "points": 9.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Eddie Cheever",
+    "nationality": "USA",
+    "total_points": 70.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "11",
+        "team": "Arrows Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1988,
+        "position": "12",
+        "team": "Arrows Megatron",
+        "points": 6.0
+      },
+      {
+        "year": 1987,
+        "position": "10",
+        "team": "Arrows Megatron",
+        "points": 8.0
+      },
+      {
+        "year": 1984,
+        "position": "16",
+        "team": "Alfa Romeo",
+        "points": 3.0
+      },
+      {
+        "year": 1983,
+        "position": "7",
+        "team": "Renault",
+        "points": 22.0
+      },
+      {
+        "year": 1982,
+        "position": "12",
+        "team": "Ligier Matra",
+        "points": 15.0
+      },
+      {
+        "year": 1981,
+        "position": "11",
+        "team": "Tyrrell Ford",
+        "points": 10.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alessandro Nannini",
+    "nationality": "ITA",
+    "total_points": 65.0,
+    "career_history": [
+      {
+        "year": 1990,
+        "position": "8",
+        "team": "Benetton Ford",
+        "points": 21.0
+      },
+      {
+        "year": 1989,
+        "position": "6",
+        "team": "Benetton Ford",
+        "points": 32.0
+      },
+      {
+        "year": 1988,
+        "position": "10",
+        "team": "Benetton Ford",
+        "points": 12.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Vitaly Petrov",
+    "nationality": "RUS",
+    "total_points": 64.0,
+    "career_history": [
+      {
+        "year": 2012,
+        "position": "19",
+        "team": "Caterham Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2011,
+        "position": "10",
+        "team": "Renault",
+        "points": 37.0
+      },
+      {
+        "year": 2010,
+        "position": "13",
+        "team": "Renault",
+        "points": 27.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Andrea de Cesaris",
+    "nationality": "ITA",
+    "total_points": 59.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "20",
+        "team": "Sauber Mercedes",
+        "points": 4.0
+      },
+      {
+        "year": 1992,
+        "position": "9",
+        "team": "Tyrrell Ilmor",
+        "points": 8.0
+      },
+      {
+        "year": 1991,
+        "position": "9",
+        "team": "Jordan Ford",
+        "points": 9.0
+      },
+      {
+        "year": 1989,
+        "position": "16",
+        "team": "Dallara Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1988,
+        "position": "15",
+        "team": "Rial Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1987,
+        "position": "14",
+        "team": "Brabham BMW",
+        "points": 4.0
+      },
+      {
+        "year": 1985,
+        "position": "17",
+        "team": "Ligier Renault",
+        "points": 3.0
+      },
+      {
+        "year": 1984,
+        "position": "18",
+        "team": "Ligier Renault",
+        "points": 3.0
+      },
+      {
+        "year": 1983,
+        "position": "8",
+        "team": "Alfa Romeo",
+        "points": 15.0
+      },
+      {
+        "year": 1982,
+        "position": "17",
+        "team": "Alfa Romeo",
+        "points": 5.0
+      },
+      {
+        "year": 1981,
+        "position": "18",
+        "team": "McLaren Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Timo Glock",
+    "nationality": "GER",
+    "total_points": 51.0,
+    "career_history": [
+      {
+        "year": 2012,
+        "position": "20",
+        "team": "Marussia Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2011,
+        "position": "25",
+        "team": "Virgin Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2010,
+        "position": "25",
+        "team": "Virgin Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2009,
+        "position": "10",
+        "team": "Toyota",
+        "points": 24.0
+      },
+      {
+        "year": 2008,
+        "position": "10",
+        "team": "Toyota",
+        "points": 25.0
+      },
+      {
+        "year": 2004,
+        "position": "19",
+        "team": "Jordan Ford",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jean-Eric Vergne",
+    "nationality": "FRA",
+    "total_points": 51.0,
+    "career_history": [
+      {
+        "year": 2014,
+        "position": "13",
+        "team": "STR Renault",
+        "points": 22.0
+      },
+      {
+        "year": 2013,
+        "position": "15",
+        "team": "STR Ferrari",
+        "points": 13.0
+      },
+      {
+        "year": 2012,
+        "position": "17",
+        "team": "STR Ferrari",
+        "points": 16.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Isack Hadjar",
+    "nationality": "FRA",
+    "total_points": 51.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "10",
+        "team": "Racing Bulls",
+        "points": 51.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Oliver Bearman",
+    "nationality": "GBR",
+    "total_points": 48.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "13",
+        "team": "Haas F1 Team",
+        "points": 41.0
+      },
+      {
+        "year": 2024,
+        "position": "18",
+        "team": "Haas Ferrari",
+        "points": 7.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alexander Wurz",
+    "nationality": "AUT",
+    "total_points": 45.0,
+    "career_history": [
+      {
+        "year": 2007,
+        "position": "11",
+        "team": "Williams Toyota",
+        "points": 13.0
+      },
+      {
+        "year": 2005,
+        "position": "17",
+        "team": "McLaren Mercedes",
+        "points": 6.0
+      },
+      {
+        "year": 2000,
+        "position": "15",
+        "team": "Benetton Playlife",
+        "points": 2.0
+      },
+      {
+        "year": 1999,
+        "position": "13",
+        "team": "Benetton Playlife",
+        "points": 3.0
+      },
+      {
+        "year": 1998,
+        "position": "8",
+        "team": "Benetton Playlife",
+        "points": 17.0
+      },
+      {
+        "year": 1997,
+        "position": "14",
+        "team": "Benetton Renault",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Takuma Sato",
+    "nationality": "JPN",
+    "total_points": 44.0,
+    "career_history": [
+      {
+        "year": 2008,
+        "position": "21",
+        "team": "Super Aguri Honda",
+        "points": 0.0
+      },
+      {
+        "year": 2007,
+        "position": "17",
+        "team": "Super Aguri Honda",
+        "points": 4.0
+      },
+      {
+        "year": 2006,
+        "position": "23",
+        "team": "Super Aguri Honda",
+        "points": 0.0
+      },
+      {
+        "year": 2005,
+        "position": "23",
+        "team": "BAR Honda",
+        "points": 1.0
+      },
+      {
+        "year": 2004,
+        "position": "8",
+        "team": "BAR Honda",
+        "points": 34.0
+      },
+      {
+        "year": 2003,
+        "position": "18",
+        "team": "BAR Honda",
+        "points": 3.0
+      },
+      {
+        "year": 2002,
+        "position": "15",
+        "team": "Jordan Honda",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Liam Lawson",
+    "nationality": "NZL",
+    "total_points": 44.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "14",
+        "team": "Racing Bulls",
+        "points": 38.0
+      },
+      {
+        "year": 2024,
+        "position": "21",
+        "team": "RB Honda RBPT",
+        "points": 4.0
+      },
+      {
+        "year": 2023,
+        "position": "20",
+        "team": "AlphaTauri Honda RBPT",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Carlos Pace",
+    "nationality": "BRA",
+    "total_points": 37.0,
+    "career_history": [
+      {
+        "year": 1977,
+        "position": "15",
+        "team": "Brabham Alfa Romeo",
+        "points": 6.0
+      },
+      {
+        "year": 1976,
+        "position": "14",
+        "team": "Brabham Alfa Romeo",
+        "points": 7.0
+      },
+      {
+        "year": 1975,
+        "position": "6",
+        "team": "Brabham Ford",
+        "points": 24.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pedro de la Rosa",
+    "nationality": "ESP",
+    "total_points": 35.0,
+    "career_history": [
+      {
+        "year": 2012,
+        "position": "25",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2011,
+        "position": "20",
+        "team": "Sauber Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2010,
+        "position": "17",
+        "team": "Sauber Ferrari",
+        "points": 6.0
+      },
+      {
+        "year": 2006,
+        "position": "11",
+        "team": "McLaren Mercedes",
+        "points": 19.0
+      },
+      {
+        "year": 2005,
+        "position": "20",
+        "team": "McLaren Mercedes",
+        "points": 4.0
+      },
+      {
+        "year": 2002,
+        "position": "21",
+        "team": "Jaguar Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2001,
+        "position": "16",
+        "team": "Jaguar Cosworth",
+        "points": 3.0
+      },
+      {
+        "year": 2000,
+        "position": "16",
+        "team": "Arrows Supertec",
+        "points": 2.0
+      },
+      {
+        "year": 1999,
+        "position": "17",
+        "team": "Arrows",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mika Salo",
+    "nationality": "FIN",
+    "total_points": 33.0,
+    "career_history": [
+      {
+        "year": 2002,
+        "position": "17",
+        "team": "Toyota",
+        "points": 2.0
+      },
+      {
+        "year": 2000,
+        "position": "11",
+        "team": "Sauber Petronas",
+        "points": 6.0
+      },
+      {
+        "year": 1999,
+        "position": "10",
+        "team": "Ferrari",
+        "points": 10.0
+      },
+      {
+        "year": 1998,
+        "position": "13",
+        "team": "Arrows",
+        "points": 3.0
+      },
+      {
+        "year": 1997,
+        "position": "16",
+        "team": "Tyrrell Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1996,
+        "position": "13",
+        "team": "Tyrrell Yamaha",
+        "points": 5.0
+      },
+      {
+        "year": 1995,
+        "position": "15",
+        "team": "Tyrrell Yamaha",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Bruno Senna",
+    "nationality": "BRA",
+    "total_points": 33.0,
+    "career_history": [
+      {
+        "year": 2012,
+        "position": "16",
+        "team": "Williams Renault",
+        "points": 31.0
+      },
+      {
+        "year": 2011,
+        "position": "18",
+        "team": "Renault",
+        "points": 2.0
+      },
+      {
+        "year": 2010,
+        "position": "23",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mark Blundell",
+    "nationality": "GBR",
+    "total_points": 32.0,
+    "career_history": [
+      {
+        "year": 1995,
+        "position": "10",
+        "team": "McLaren Mercedes",
+        "points": 13.0
+      },
+      {
+        "year": 1994,
+        "position": "12",
+        "team": "Tyrrell Yamaha",
+        "points": 8.0
+      },
+      {
+        "year": 1993,
+        "position": "10",
+        "team": "Ligier Renault",
+        "points": 10.0
+      },
+      {
+        "year": 1991,
+        "position": "18",
+        "team": "Brabham Yamaha",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gunnar Nilsson",
+    "nationality": "SWE",
+    "total_points": 31.0,
+    "career_history": [
+      {
+        "year": 1977,
+        "position": "8",
+        "team": "Lotus Ford",
+        "points": 20.0
+      },
+      {
+        "year": 1976,
+        "position": "10",
+        "team": "Lotus Ford",
+        "points": 11.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Ivan Capelli",
+    "nationality": "ITA",
+    "total_points": 31.0,
+    "career_history": [
+      {
+        "year": 1992,
+        "position": "12",
+        "team": "Ferrari",
+        "points": 3.0
+      },
+      {
+        "year": 1991,
+        "position": "18",
+        "team": "Leyton House Ilmor",
+        "points": 1.0
+      },
+      {
+        "year": 1990,
+        "position": "10",
+        "team": "Leyton House Judd",
+        "points": 6.0
+      },
+      {
+        "year": 1988,
+        "position": "7",
+        "team": "March Judd",
+        "points": 17.0
+      },
+      {
+        "year": 1987,
+        "position": "20",
+        "team": "March Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1985,
+        "position": "19",
+        "team": "Tyrrell Renault",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jaime Alguersuari",
+    "nationality": "ESP",
+    "total_points": 31.0,
+    "career_history": [
+      {
+        "year": 2011,
+        "position": "14",
+        "team": "STR Ferrari",
+        "points": 26.0
+      },
+      {
+        "year": 2010,
+        "position": "19",
+        "team": "STR Ferrari",
+        "points": 5.0
+      },
+      {
+        "year": 2009,
+        "position": "24",
+        "team": "STR Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Sebastien Buemi",
+    "nationality": "SUI",
+    "total_points": 29.0,
+    "career_history": [
+      {
+        "year": 2011,
+        "position": "15",
+        "team": "STR Ferrari",
+        "points": 15.0
+      },
+      {
+        "year": 2010,
+        "position": "16",
+        "team": "STR Ferrari",
+        "points": 8.0
+      },
+      {
+        "year": 2009,
+        "position": "16",
+        "team": "STR Ferrari",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Felipe Nasr",
+    "nationality": "BRA",
+    "total_points": 29.0,
+    "career_history": [
+      {
+        "year": 2016,
+        "position": "17",
+        "team": "Sauber Ferrari",
+        "points": 2.0
+      },
+      {
+        "year": 2015,
+        "position": "13",
+        "team": "Sauber Ferrari",
+        "points": 27.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Vitantonio Liuzzi",
+    "nationality": "ITA",
+    "total_points": 26.0,
+    "career_history": [
+      {
+        "year": 2011,
+        "position": "23",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2010,
+        "position": "15",
+        "team": "Force India Mercedes",
+        "points": 21.0
+      },
+      {
+        "year": 2009,
+        "position": "22",
+        "team": "Force India Mercedes",
+        "points": 0.0
+      },
+      {
+        "year": 2007,
+        "position": "18",
+        "team": "STR Ferrari",
+        "points": 3.0
+      },
+      {
+        "year": 2006,
+        "position": "19",
+        "team": "STR Cosworth",
+        "points": 1.0
+      },
+      {
+        "year": 2005,
+        "position": "24",
+        "team": "RBR Cosworth",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Stoffel Vandoorne",
+    "nationality": "BEL",
+    "total_points": 26.0,
+    "career_history": [
+      {
+        "year": 2018,
+        "position": "16",
+        "team": "McLaren Renault",
+        "points": 12.0
+      },
+      {
+        "year": 2017,
+        "position": "16",
+        "team": "McLaren Honda",
+        "points": 13.0
+      },
+      {
+        "year": 2016,
+        "position": "20",
+        "team": "McLaren Honda",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jean-Pierre Jarier",
+    "nationality": "FRA",
+    "total_points": 25.5,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "20",
+        "team": "Osella Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1980,
+        "position": "10",
+        "team": "Tyrrell Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1979,
+        "position": "10",
+        "team": "Tyrrell Ford",
+        "points": 14.0
+      },
+      {
+        "year": 1977,
+        "position": "19",
+        "team": "Ligier Matra",
+        "points": 1.0
+      },
+      {
+        "year": 1975,
+        "position": "18",
+        "team": "Shadow Ford",
+        "points": 1.5
+      }
+    ]
+  },
+  {
+    "driver_name": "Hans-Joachim Stuck",
+    "nationality": "GER",
+    "total_points": 24.0,
+    "career_history": [
+      {
+        "year": 1979,
+        "position": "19",
+        "team": "ATS Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1978,
+        "position": "18",
+        "team": "Shadow Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1977,
+        "position": "11",
+        "team": "Brabham Alfa Romeo",
+        "points": 12.0
+      },
+      {
+        "year": 1976,
+        "position": "13",
+        "team": "March Ford",
+        "points": 8.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Teo Fabi",
+    "nationality": "ITA",
+    "total_points": 23.0,
+    "career_history": [
+      {
+        "year": 1987,
+        "position": "9",
+        "team": "Benetton Ford",
+        "points": 12.0
+      },
+      {
+        "year": 1986,
+        "position": "15",
+        "team": "Benetton BMW",
+        "points": 2.0
+      },
+      {
+        "year": 1984,
+        "position": "12",
+        "team": "Brabham BMW",
+        "points": 9.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jean-Pierre Jabouille",
+    "nationality": "FRA",
+    "total_points": 21.0,
+    "career_history": [
+      {
+        "year": 1980,
+        "position": "8",
+        "team": "Renault",
+        "points": 9.0
+      },
+      {
+        "year": 1979,
+        "position": "13",
+        "team": "Renault",
+        "points": 9.0
+      },
+      {
+        "year": 1978,
+        "position": "17",
+        "team": "Renault",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Antonio Giovinazzi",
+    "nationality": "ITA",
+    "total_points": 21.0,
+    "career_history": [
+      {
+        "year": 2021,
+        "position": "18",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 3.0
+      },
+      {
+        "year": 2020,
+        "position": "17",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 4.0
+      },
+      {
+        "year": 2019,
+        "position": "17",
+        "team": "Alfa Romeo Racing Ferrari",
+        "points": 14.0
+      },
+      {
+        "year": 2017,
+        "position": "22",
+        "team": "Sauber Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gabriel Bortoleto",
+    "nationality": "BRA",
+    "total_points": 19.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "19",
+        "team": "Kick Sauber",
+        "points": 19.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Tom Pryce",
+    "nationality": "GBR",
+    "total_points": 18.0,
+    "career_history": [
+      {
+        "year": 1976,
+        "position": "11",
+        "team": "Shadow Ford",
+        "points": 10.0
+      },
+      {
+        "year": 1975,
+        "position": "10",
+        "team": "Shadow Ford",
+        "points": 8.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pierluigi Martini",
+    "nationality": "ITA",
+    "total_points": 18.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "21",
+        "team": "Minardi Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1992,
+        "position": "15",
+        "team": "Dallara Ferrari",
+        "points": 2.0
+      },
+      {
+        "year": 1991,
+        "position": "11",
+        "team": "Minardi Ferrari",
+        "points": 6.0
+      },
+      {
+        "year": 1989,
+        "position": "15",
+        "team": "Minardi Ford",
+        "points": 5.0
+      },
+      {
+        "year": 1988,
+        "position": "16",
+        "team": "Minardi Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Marcus Ericsson",
+    "nationality": "SWE",
+    "total_points": 18.0,
+    "career_history": [
+      {
+        "year": 2018,
+        "position": "17",
+        "team": "Sauber Ferrari",
+        "points": 9.0
+      },
+      {
+        "year": 2017,
+        "position": "20",
+        "team": "Sauber Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2016,
+        "position": "22",
+        "team": "Sauber Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2015,
+        "position": "18",
+        "team": "Sauber Ferrari",
+        "points": 9.0
+      },
+      {
+        "year": 2014,
+        "position": "19",
+        "team": "Caterham Renault",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Marc Surer",
+    "nationality": "SUI",
+    "total_points": 17.0,
+    "career_history": [
+      {
+        "year": 1985,
+        "position": "13",
+        "team": "Brabham BMW",
+        "points": 5.0
+      },
+      {
+        "year": 1984,
+        "position": "20",
+        "team": "Arrows BMW",
+        "points": 1.0
+      },
+      {
+        "year": 1983,
+        "position": "15",
+        "team": "Arrows Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1982,
+        "position": "20",
+        "team": "Arrows Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1981,
+        "position": "16",
+        "team": "Theodore Ford",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Stefano Modena",
+    "nationality": "ITA",
+    "total_points": 17.0,
+    "career_history": [
+      {
+        "year": 1992,
+        "position": "17",
+        "team": "Jordan Yamaha",
+        "points": 1.0
+      },
+      {
+        "year": 1991,
+        "position": "8",
+        "team": "Tyrrell Honda",
+        "points": 10.0
+      },
+      {
+        "year": 1990,
+        "position": "16",
+        "team": "Brabham Judd",
+        "points": 2.0
+      },
+      {
+        "year": 1989,
+        "position": "16",
+        "team": "Brabham Judd",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jos Verstappen",
+    "nationality": "NED",
+    "total_points": 17.0,
+    "career_history": [
+      {
+        "year": 2003,
+        "position": "22",
+        "team": "Minardi Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2001,
+        "position": "18",
+        "team": "Arrows Asiatech",
+        "points": 1.0
+      },
+      {
+        "year": 2000,
+        "position": "12",
+        "team": "Arrows Supertec",
+        "points": 5.0
+      },
+      {
+        "year": 1998,
+        "position": "23",
+        "team": "Stewart Ford",
+        "points": 0.0
+      },
+      {
+        "year": 1996,
+        "position": "16",
+        "team": "Footwork Hart",
+        "points": 1.0
+      },
+      {
+        "year": 1994,
+        "position": "10",
+        "team": "Benetton Ford",
+        "points": 10.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Satoru Nakajima",
+    "nationality": "JPN",
+    "total_points": 16.0,
+    "career_history": [
+      {
+        "year": 1991,
+        "position": "15",
+        "team": "Tyrrell Honda",
+        "points": 2.0
+      },
+      {
+        "year": 1990,
+        "position": "15",
+        "team": "Tyrrell Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1989,
+        "position": "21",
+        "team": "Lotus Judd",
+        "points": 3.0
+      },
+      {
+        "year": 1988,
+        "position": "17",
+        "team": "Lotus Honda",
+        "points": 1.0
+      },
+      {
+        "year": 1987,
+        "position": "12",
+        "team": "Lotus Honda",
+        "points": 7.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Zhou Guanyu",
+    "nationality": "CHN",
+    "total_points": 16.0,
+    "career_history": [
+      {
+        "year": 2024,
+        "position": "20",
+        "team": "Kick Sauber Ferrari",
+        "points": 4.0
+      },
+      {
+        "year": 2023,
+        "position": "18",
+        "team": "Alfa Romeo Ferrari",
+        "points": 6.0
+      },
+      {
+        "year": 2022,
+        "position": "18",
+        "team": "Alfa Romeo Ferrari",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Derek Daly",
+    "nationality": "IRL",
+    "total_points": 15.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "13",
+        "team": "Williams Ford",
+        "points": 8.0
+      },
+      {
+        "year": 1980,
+        "position": "10",
+        "team": "Tyrrell Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1978,
+        "position": "19",
+        "team": "Ensign Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Roberto Moreno",
+    "nationality": "BRA",
+    "total_points": 15.0,
+    "career_history": [
+      {
+        "year": 1991,
+        "position": "10",
+        "team": "Minardi Ferrari",
+        "points": 8.0
+      },
+      {
+        "year": 1990,
+        "position": "10",
+        "team": "Benetton Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1987,
+        "position": "21",
+        "team": "AGS Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Vittorio Brambilla",
+    "nationality": "ITA",
+    "total_points": 14.5,
+    "career_history": [
+      {
+        "year": 1978,
+        "position": "19",
+        "team": "Surtees Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1977,
+        "position": "15",
+        "team": "Surtees Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1976,
+        "position": "19",
+        "team": "March Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1975,
+        "position": "11",
+        "team": "March Ford",
+        "points": 6.5
+      }
+    ]
+  },
+  {
+    "driver_name": "Bruno Giacomelli",
+    "nationality": "ITA",
+    "total_points": 14.0,
+    "career_history": [
+      {
+        "year": 1983,
+        "position": "19",
+        "team": "Toleman Hart",
+        "points": 1.0
+      },
+      {
+        "year": 1982,
+        "position": "22",
+        "team": "Alfa Romeo",
+        "points": 2.0
+      },
+      {
+        "year": 1981,
+        "position": "15",
+        "team": "Alfa Romeo",
+        "points": 7.0
+      },
+      {
+        "year": 1980,
+        "position": "17",
+        "team": "Alfa Romeo",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jonathan Palmer",
+    "nationality": "GBR",
+    "total_points": 14.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "25",
+        "team": "Tyrrell Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1988,
+        "position": "14",
+        "team": "Tyrrell Ford",
+        "points": 5.0
+      },
+      {
+        "year": 1987,
+        "position": "11",
+        "team": "Tyrrell Ford",
+        "points": 7.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Karl Wendlinger",
+    "nationality": "AUT",
+    "total_points": 14.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "19",
+        "team": "Sauber Mercedes",
+        "points": 4.0
+      },
+      {
+        "year": 1993,
+        "position": "12",
+        "team": "Sauber",
+        "points": 7.0
+      },
+      {
+        "year": 1992,
+        "position": "12",
+        "team": "March Ilmor",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Christian Klien",
+    "nationality": "AUT",
+    "total_points": 14.0,
+    "career_history": [
+      {
+        "year": 2010,
+        "position": "27",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2006,
+        "position": "18",
+        "team": "RBR Ferrari",
+        "points": 2.0
+      },
+      {
+        "year": 2005,
+        "position": "15",
+        "team": "RBR Cosworth",
+        "points": 9.0
+      },
+      {
+        "year": 2004,
+        "position": "16",
+        "team": "Jaguar Cosworth",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Hector Rebaque",
+    "nationality": "MEX",
+    "total_points": 13.0,
+    "career_history": [
+      {
+        "year": 1981,
+        "position": "9",
+        "team": "Brabham Ford",
+        "points": 11.0
+      },
+      {
+        "year": 1980,
+        "position": "20",
+        "team": "Brabham Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1978,
+        "position": "19",
+        "team": "Lotus Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Cristiano da Matta",
+    "nationality": "BRA",
+    "total_points": 13.0,
+    "career_history": [
+      {
+        "year": 2004,
+        "position": "17",
+        "team": "Toyota",
+        "points": 3.0
+      },
+      {
+        "year": 2003,
+        "position": "13",
+        "team": "Toyota",
+        "points": 10.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Christian Fittipaldi",
+    "nationality": "BRA",
+    "total_points": 12.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "15",
+        "team": "Footwork Ford",
+        "points": 6.0
+      },
+      {
+        "year": 1993,
+        "position": "13",
+        "team": "Minardi Ford",
+        "points": 5.0
+      },
+      {
+        "year": 1992,
+        "position": "18",
+        "team": "Minardi Lamborghini",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mick Schumacher",
+    "nationality": "GER",
+    "total_points": 12.0,
+    "career_history": [
+      {
+        "year": 2022,
+        "position": "16",
+        "team": "Haas Ferrari",
+        "points": 12.0
+      },
+      {
+        "year": 2021,
+        "position": "19",
+        "team": "Haas Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Philippe Streiff",
+    "nationality": "FRA",
+    "total_points": 11.0,
+    "career_history": [
+      {
+        "year": 1987,
+        "position": "15",
+        "team": "Tyrrell Ford",
+        "points": 4.0
+      },
+      {
+        "year": 1986,
+        "position": "14",
+        "team": "Tyrrell Renault",
+        "points": 3.0
+      },
+      {
+        "year": 1985,
+        "position": "15",
+        "team": "Ligier Renault",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mauricio Gugelmin",
+    "nationality": "BRA",
+    "total_points": 10.0,
+    "career_history": [
+      {
+        "year": 1990,
+        "position": "18",
+        "team": "Leyton House Judd",
+        "points": 1.0
+      },
+      {
+        "year": 1989,
+        "position": "16",
+        "team": "March Judd",
+        "points": 4.0
+      },
+      {
+        "year": 1988,
+        "position": "13",
+        "team": "March Judd",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Eric Bernard",
+    "nationality": "FRA",
+    "total_points": 10.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "18",
+        "team": "Lotus Mugen Honda",
+        "points": 4.0
+      },
+      {
+        "year": 1991,
+        "position": "18",
+        "team": "Lola Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1990,
+        "position": "13",
+        "team": "Lola Lamborghini",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jyrki Jarvilehto",
+    "nationality": "FIN",
+    "total_points": 10.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "25",
+        "team": "Sauber Mercedes",
+        "points": 1.0
+      },
+      {
+        "year": 1993,
+        "position": "13",
+        "team": "Sauber",
+        "points": 5.0
+      },
+      {
+        "year": 1991,
+        "position": "12",
+        "team": "Dallara Judd",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pedro Diniz",
+    "nationality": "BRA",
+    "total_points": 10.0,
+    "career_history": [
+      {
+        "year": 2000,
+        "position": "17",
+        "team": "Sauber Petronas",
+        "points": 0.0
+      },
+      {
+        "year": 1999,
+        "position": "14",
+        "team": "Sauber Petronas",
+        "points": 3.0
+      },
+      {
+        "year": 1998,
+        "position": "14",
+        "team": "Arrows",
+        "points": 3.0
+      },
+      {
+        "year": 1997,
+        "position": "17",
+        "team": "Arrows Yamaha",
+        "points": 2.0
+      },
+      {
+        "year": 1996,
+        "position": "15",
+        "team": "Ligier Mugen Honda",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Kazuki Nakajima",
+    "nationality": "JPN",
+    "total_points": 9.0,
+    "career_history": [
+      {
+        "year": 2009,
+        "position": "20",
+        "team": "Williams Toyota",
+        "points": 0.0
+      },
+      {
+        "year": 2008,
+        "position": "15",
+        "team": "Williams Toyota",
+        "points": 9.0
+      },
+      {
+        "year": 2007,
+        "position": "22",
+        "team": "Williams Toyota",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jolyon Palmer",
+    "nationality": "GBR",
+    "total_points": 9.0,
+    "career_history": [
+      {
+        "year": 2017,
+        "position": "17",
+        "team": "Renault",
+        "points": 8.0
+      },
+      {
+        "year": 2016,
+        "position": "18",
+        "team": "Renault",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nicholas Latifi",
+    "nationality": "CAN",
+    "total_points": 9.0,
+    "career_history": [
+      {
+        "year": 2022,
+        "position": "20",
+        "team": "Williams Mercedes",
+        "points": 2.0
+      },
+      {
+        "year": 2021,
+        "position": "17",
+        "team": "Williams Mercedes",
+        "points": 7.0
+      },
+      {
+        "year": 2020,
+        "position": "21",
+        "team": "Williams Mercedes",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gianni Morbidelli",
+    "nationality": "ITA",
+    "total_points": 8.5,
+    "career_history": [
+      {
+        "year": 1995,
+        "position": "14",
+        "team": "Footwork Hart",
+        "points": 5.0
+      },
+      {
+        "year": 1994,
+        "position": "22",
+        "team": "Footwork Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1991,
+        "position": "24",
+        "team": "Ferrari",
+        "points": 0.5
+      }
+    ]
+  },
+  {
+    "driver_name": "Aguri Suzuki",
+    "nationality": "JPN",
+    "total_points": 8.0,
+    "career_history": [
+      {
+        "year": 1995,
+        "position": "17",
+        "team": "Ligier Mugen Honda",
+        "points": 1.0
+      },
+      {
+        "year": 1991,
+        "position": "18",
+        "team": "Lola Ford",
+        "points": 1.0
+      },
+      {
+        "year": 1990,
+        "position": "12",
+        "team": "Lola Lamborghini",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Antonio Pizzonia",
+    "nationality": "BRA",
+    "total_points": 8.0,
+    "career_history": [
+      {
+        "year": 2005,
+        "position": "22",
+        "team": "Williams BMW",
+        "points": 2.0
+      },
+      {
+        "year": 2004,
+        "position": "15",
+        "team": "Williams BMW",
+        "points": 6.0
+      },
+      {
+        "year": 2003,
+        "position": "21",
+        "team": "Jaguar Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Philippe Alliot",
+    "nationality": "FRA",
+    "total_points": 7.0,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "17",
+        "team": "Larrousse Lamborghini",
+        "points": 2.0
+      },
+      {
+        "year": 1989,
+        "position": "26",
+        "team": "Lola Lamborghini",
+        "points": 1.0
+      },
+      {
+        "year": 1987,
+        "position": "17",
+        "team": "Lola Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1986,
+        "position": "18",
+        "team": "Ligier Renault",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Erik Comas",
+    "nationality": "FRA",
+    "total_points": 7.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "23",
+        "team": "Larrousse Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1993,
+        "position": "20",
+        "team": "Larrousse Lamborghini",
+        "points": 1.0
+      },
+      {
+        "year": 1992,
+        "position": "11",
+        "team": "Ligier Renault",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Michael Andretti",
+    "nationality": "USA",
+    "total_points": 7.0,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "11",
+        "team": "McLaren Ford",
+        "points": 7.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nicola Larini",
+    "nationality": "ITA",
+    "total_points": 7.0,
+    "career_history": [
+      {
+        "year": 1997,
+        "position": "19",
+        "team": "Sauber Petronas",
+        "points": 1.0
+      },
+      {
+        "year": 1994,
+        "position": "14",
+        "team": "Ferrari",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Tiago Monteiro",
+    "nationality": "POR",
+    "total_points": 7.0,
+    "career_history": [
+      {
+        "year": 2006,
+        "position": "21",
+        "team": "MF1 Toyota",
+        "points": 0.0
+      },
+      {
+        "year": 2005,
+        "position": "16",
+        "team": "Jordan Toyota",
+        "points": 7.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jacky Ickx",
+    "nationality": "BEL",
+    "total_points": 6.0,
+    "career_history": [
+      {
+        "year": 1979,
+        "position": "15",
+        "team": "Ligier Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1975,
+        "position": "16",
+        "team": "Lotus Ford",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alex Caffi",
+    "nationality": "ITA",
+    "total_points": 6.0,
+    "career_history": [
+      {
+        "year": 1990,
+        "position": "16",
+        "team": "Arrows Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1989,
+        "position": "19",
+        "team": "Dallara Ford",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Sebastien Bourdais",
+    "nationality": "FRA",
+    "total_points": 6.0,
+    "career_history": [
+      {
+        "year": 2009,
+        "position": "19",
+        "team": "STR Ferrari",
+        "points": 2.0
+      },
+      {
+        "year": 2008,
+        "position": "17",
+        "team": "STR Ferrari",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Esteban Gutierrez",
+    "nationality": "MEX",
+    "total_points": 6.0,
+    "career_history": [
+      {
+        "year": 2016,
+        "position": "21",
+        "team": "Haas Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2014,
+        "position": "20",
+        "team": "Sauber Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2013,
+        "position": "16",
+        "team": "Sauber Ferrari",
+        "points": 6.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pascal Wehrlein",
+    "nationality": "GER",
+    "total_points": 6.0,
+    "career_history": [
+      {
+        "year": 2017,
+        "position": "18",
+        "team": "Sauber Ferrari",
+        "points": 5.0
+      },
+      {
+        "year": 2016,
+        "position": "19",
+        "team": "MRT Mercedes",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mauro Baldi",
+    "nationality": "ITA",
+    "total_points": 5.0,
+    "career_history": [
+      {
+        "year": 1983,
+        "position": "16",
+        "team": "Alfa Romeo",
+        "points": 3.0
+      },
+      {
+        "year": 1982,
+        "position": "22",
+        "team": "Arrows Ford",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Bertrand Gachot",
+    "nationality": "FRA",
+    "total_points": 5.0,
+    "career_history": [
+      {
+        "year": 1992,
+        "position": "19",
+        "team": "Venturi Lamborghini",
+        "points": 1.0
+      },
+      {
+        "year": 1991,
+        "position": "12",
+        "team": "Jordan Ford",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Ukyo Katayama",
+    "nationality": "JPN",
+    "total_points": 5.0,
+    "career_history": [
+      {
+        "year": 1994,
+        "position": "17",
+        "team": "Tyrrell Yamaha",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Marc Gene",
+    "nationality": "ESP",
+    "total_points": 5.0,
+    "career_history": [
+      {
+        "year": 2004,
+        "position": "23",
+        "team": "Williams BMW",
+        "points": 0.0
+      },
+      {
+        "year": 2003,
+        "position": "17",
+        "team": "Williams BMW",
+        "points": 4.0
+      },
+      {
+        "year": 2000,
+        "position": "19",
+        "team": "Minardi Fondmetal",
+        "points": 0.0
+      },
+      {
+        "year": 1999,
+        "position": "18",
+        "team": "Minardi Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Narain Karthikeyan",
+    "nationality": "IND",
+    "total_points": 5.0,
+    "career_history": [
+      {
+        "year": 2012,
+        "position": "24",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2011,
+        "position": "26",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2005,
+        "position": "18",
+        "team": "Jordan Toyota",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Franco Colapinto",
+    "nationality": "ARG",
+    "total_points": 5.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "20",
+        "team": "Alpine",
+        "points": 0.0
+      },
+      {
+        "year": 2024,
+        "position": "19",
+        "team": "Williams Mercedes",
+        "points": 5.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Mark Donohue",
+    "nationality": "USA",
+    "total_points": 4.0,
+    "career_history": [
+      {
+        "year": 1975,
+        "position": "15",
+        "team": "March Ford",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Stefan Bellof",
+    "nationality": "GER",
+    "total_points": 4.0,
+    "career_history": [
+      {
+        "year": 1985,
+        "position": "16",
+        "team": "Tyrrell Renault",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Christian Danner",
+    "nationality": "GER",
+    "total_points": 4.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "21",
+        "team": "Rial Ford",
+        "points": 3.0
+      },
+      {
+        "year": 1986,
+        "position": "19",
+        "team": "Arrows BMW",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Christijan Albers",
+    "nationality": "NED",
+    "total_points": 4.0,
+    "career_history": [
+      {
+        "year": 2007,
+        "position": "25",
+        "team": "Spyker Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2006,
+        "position": "22",
+        "team": "MF1 Toyota",
+        "points": 0.0
+      },
+      {
+        "year": 2005,
+        "position": "19",
+        "team": "Minardi Cosworth",
+        "points": 4.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Brendon Hartley",
+    "nationality": "NZL",
+    "total_points": 4.0,
+    "career_history": [
+      {
+        "year": 2018,
+        "position": "19",
+        "team": "Scuderia Toro Rosso Honda",
+        "points": 4.0
+      },
+      {
+        "year": 2017,
+        "position": "23",
+        "team": "Toro Rosso",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Eliseo Salazar",
+    "nationality": "CHI",
+    "total_points": 3.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "22",
+        "team": "ATS Ford",
+        "points": 2.0
+      },
+      {
+        "year": 1981,
+        "position": "18",
+        "team": "Ensign Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Johnny Dumfries",
+    "nationality": "GBR",
+    "total_points": 3.0,
+    "career_history": [
+      {
+        "year": 1986,
+        "position": "13",
+        "team": "Lotus Renault",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Emanuele Pirro",
+    "nationality": "ITA",
+    "total_points": 3.0,
+    "career_history": [
+      {
+        "year": 1991,
+        "position": "18",
+        "team": "Dallara Judd",
+        "points": 1.0
+      },
+      {
+        "year": 1989,
+        "position": "23",
+        "team": "Benetton Ford",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jean-Christophe Boullion",
+    "nationality": "FRA",
+    "total_points": 3.0,
+    "career_history": [
+      {
+        "year": 1995,
+        "position": "16",
+        "team": "Sauber Ford",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Ricardo Zonta",
+    "nationality": "BRA",
+    "total_points": 3.0,
+    "career_history": [
+      {
+        "year": 2004,
+        "position": "22",
+        "team": "Toyota",
+        "points": 0.0
+      },
+      {
+        "year": 2000,
+        "position": "14",
+        "team": "BAR Honda",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Patrick Friesacher",
+    "nationality": "AUT",
+    "total_points": 3.0,
+    "career_history": [
+      {
+        "year": 2005,
+        "position": "21",
+        "team": "Minardi Cosworth",
+        "points": 3.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Chris Amon",
+    "nationality": "NZL",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 1976,
+        "position": "18",
+        "team": "Wolf-Williams",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Manfred Winkelhock",
+    "nationality": "GER",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "22",
+        "team": "ATS Ford",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Danny Sullivan",
+    "nationality": "USA",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 1983,
+        "position": "18",
+        "team": "Tyrrell Ford",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Piercarlo Ghinzani",
+    "nationality": "ITA",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 1984,
+        "position": "19",
+        "team": "Osella Alfa Romeo",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Fabrizio Barbazza",
+    "nationality": "ITA",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "19",
+        "team": "Minardi Ford",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Shinji Nakano",
+    "nationality": "JPN",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 1998,
+        "position": "21",
+        "team": "Minardi Ford",
+        "points": 0.0
+      },
+      {
+        "year": 1997,
+        "position": "18",
+        "team": "Prost Mugen Honda",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jules Bianchi",
+    "nationality": "FRA",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 2014,
+        "position": "17",
+        "team": "Marussia Ferrari",
+        "points": 2.0
+      },
+      {
+        "year": 2013,
+        "position": "19",
+        "team": "Marussia Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nyck De Vries",
+    "nationality": "NED",
+    "total_points": 2.0,
+    "career_history": [
+      {
+        "year": 2023,
+        "position": "22",
+        "team": "AlphaTauri Honda RBPT",
+        "points": 0.0
+      },
+      {
+        "year": 2022,
+        "position": "21",
+        "team": "Williams Mercedes",
+        "points": 2.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Tony Brise",
+    "nationality": "GBR",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1975,
+        "position": "19",
+        "team": "Hill Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gijs van Lennep",
+    "nationality": "NED",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1975,
+        "position": "19",
+        "team": "Ensign Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Rolf Stommelen",
+    "nationality": "GER",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1976,
+        "position": "19",
+        "team": "Brabham Alfa Romeo",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Renzo Zorzi",
+    "nationality": "ITA",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1977,
+        "position": "19",
+        "team": "Shadow Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Slim Borgudd",
+    "nationality": "SWE",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1981,
+        "position": "18",
+        "team": "ATS Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Chico Serra",
+    "nationality": "BRA",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1982,
+        "position": "26",
+        "team": "Fittipaldi Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Johnny Cecotto",
+    "nationality": "VEN",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1983,
+        "position": "20",
+        "team": "Theodore Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gabriele Tarquini",
+    "nationality": "ITA",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "26",
+        "team": "AGS Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Olivier Grouillard",
+    "nationality": "FRA",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "26",
+        "team": "Ligier Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Luis Perez-Sala",
+    "nationality": "ESP",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1989,
+        "position": "26",
+        "team": "Minardi Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Julian Bailey",
+    "nationality": "GBR",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1991,
+        "position": "18",
+        "team": "Lotus Judd",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alessandro Zanardi",
+    "nationality": "ITA",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1993,
+        "position": "20",
+        "team": "Lotus Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pedro Lamy",
+    "nationality": "POR",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1995,
+        "position": "18",
+        "team": "Minardi Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jan Magnussen",
+    "nationality": "DEN",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 1998,
+        "position": "16",
+        "team": "Stewart Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Ralph Firman",
+    "nationality": "IRL",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 2003,
+        "position": "19",
+        "team": "Jordan Ford",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Justin Wilson",
+    "nationality": "GBR",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 2003,
+        "position": "20",
+        "team": "Jaguar Cosworth",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Zsolt Baumgartner",
+    "nationality": "HUN",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 2004,
+        "position": "20",
+        "team": "Minardi Cosworth",
+        "points": 1.0
+      },
+      {
+        "year": 2003,
+        "position": "24",
+        "team": "Jordan Ford",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Sergey Sirotkin",
+    "nationality": "RUS",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 2018,
+        "position": "20",
+        "team": "Williams Mercedes",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Logan Sargeant",
+    "nationality": "USA",
+    "total_points": 1.0,
+    "career_history": [
+      {
+        "year": 2024,
+        "position": "23",
+        "team": "Williams Mercedes",
+        "points": 0.0
+      },
+      {
+        "year": 2023,
+        "position": "21",
+        "team": "Williams Mercedes",
+        "points": 1.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Lella Lombardi",
+    "nationality": "ITA",
+    "total_points": 0.5,
+    "career_history": [
+      {
+        "year": 1975,
+        "position": "21",
+        "team": "Frank Williams Racing Cars/Williams",
+        "points": 0.5
+      }
+    ]
+  },
+  {
+    "driver_name": "Ricardo Rosset",
+    "nationality": "BRA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 1998,
+        "position": "18",
+        "team": "Tyrrell Ford",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Toranosuke Takagi",
+    "nationality": "JPN",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 1998,
+        "position": "20",
+        "team": "Tyrrell Ford",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Esteban Tuero",
+    "nationality": "ARG",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 1998,
+        "position": "22",
+        "team": "Minardi Ford",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gaston Mazzacane",
+    "nationality": "ARG",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2000,
+        "position": "20",
+        "team": "Minardi Fondmetal",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Luciano Burti",
+    "nationality": "BRA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2000,
+        "position": "23",
+        "team": "Jaguar Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Allan McNish",
+    "nationality": "GBR",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2002,
+        "position": "19",
+        "team": "Toyota",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alex Yoong",
+    "nationality": "MAS",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2002,
+        "position": "20",
+        "team": "Minardi Asiatech",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Enrique Bernoldi",
+    "nationality": "BRA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2002,
+        "position": "22",
+        "team": "Arrows Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nicolas Kiesa",
+    "nationality": "DEN",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2003,
+        "position": "23",
+        "team": "Minardi Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Giorgio Pantano",
+    "nationality": "ITA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2004,
+        "position": "24",
+        "team": "Jordan Ford",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Gianmaria Bruni",
+    "nationality": "ITA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2004,
+        "position": "25",
+        "team": "Minardi Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Robert Doornbos",
+    "nationality": "MON",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2006,
+        "position": "24",
+        "team": "RBR Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2005,
+        "position": "25",
+        "team": "Minardi Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Scott Speed",
+    "nationality": "USA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2007,
+        "position": "21",
+        "team": "STR Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2006,
+        "position": "20",
+        "team": "STR Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Yuji Ide",
+    "nationality": "JPN",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2006,
+        "position": "25",
+        "team": "Super Aguri Honda",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Sakon Yamamoto",
+    "nationality": "JPN",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2010,
+        "position": "26",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      },
+      {
+        "year": 2007,
+        "position": "24",
+        "team": "Spyker Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2006,
+        "position": "26",
+        "team": "Super Aguri Honda",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Franck Montagny",
+    "nationality": "FRA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2006,
+        "position": "27",
+        "team": "Super Aguri Honda",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Anthony Davidson",
+    "nationality": "GBR",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2008,
+        "position": "22",
+        "team": "Super Aguri Honda",
+        "points": 0.0
+      },
+      {
+        "year": 2007,
+        "position": "23",
+        "team": "Super Aguri Honda",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Luca Badoer",
+    "nationality": "ITA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2009,
+        "position": "25",
+        "team": "Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Karun Chandhok",
+    "nationality": "IND",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2011,
+        "position": "28",
+        "team": "Lotus Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2010,
+        "position": "22",
+        "team": "HRT Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Lucas di Grassi",
+    "nationality": "BRA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2010,
+        "position": "24",
+        "team": "Virgin Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jerome d'Ambrosio",
+    "nationality": "BEL",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2012,
+        "position": "23",
+        "team": "Lotus Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2011,
+        "position": "24",
+        "team": "Virgin Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Charles Pic",
+    "nationality": "FRA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2013,
+        "position": "20",
+        "team": "Caterham Renault",
+        "points": 0.0
+      },
+      {
+        "year": 2012,
+        "position": "21",
+        "team": "Marussia Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Giedo van der Garde",
+    "nationality": "NED",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2013,
+        "position": "22",
+        "team": "Caterham Renault",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Max Chilton",
+    "nationality": "GBR",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2014,
+        "position": "21",
+        "team": "Marussia Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2013,
+        "position": "23",
+        "team": "Marussia Cosworth",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Will Stevens",
+    "nationality": "GBR",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2015,
+        "position": "21",
+        "team": "Marussia Ferrari",
+        "points": 0.0
+      },
+      {
+        "year": 2014,
+        "position": "23",
+        "team": "Caterham Renault",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Roberto Merhi",
+    "nationality": "ESP",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2015,
+        "position": "19",
+        "team": "Marussia Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Alexander Rossi",
+    "nationality": "USA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2015,
+        "position": "20",
+        "team": "Marussia Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Rio Haryanto",
+    "nationality": "INA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2016,
+        "position": "24",
+        "team": "MRT Mercedes",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jack Aitken",
+    "nationality": "GBR",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2020,
+        "position": "22",
+        "team": "Williams Mercedes",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Pietro Fittipaldi",
+    "nationality": "BRA",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2020,
+        "position": "23",
+        "team": "Haas Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Nikita Mazepin",
+    "nationality": "RAF",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2021,
+        "position": "21",
+        "team": "Haas Ferrari",
+        "points": 0.0
+      }
+    ]
+  },
+  {
+    "driver_name": "Jack Doohan",
+    "nationality": "AUS",
+    "total_points": 0.0,
+    "career_history": [
+      {
+        "year": 2025,
+        "position": "21",
+        "team": "Alpine",
+        "points": 0.0
+      },
+      {
+        "year": 2024,
+        "position": "24",
+        "team": "Alpine Renault",
+        "points": 0.0
+      }
+    ]
+  }
+]

@@ -47,7 +47,7 @@ project/
     ├── drivers_clean.json
     ├── drivers_final_cleaned.json
     └── output.db
-
+```
 ### How to Run Airflow
 
 1.  **Start Services:** Launch the Airflow environment using Docker Compose.

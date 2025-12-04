@@ -47,16 +47,62 @@ project/
     ├── drivers_final_cleaned.json
     └── output.db
 ```
-### How to Run Airflow
 
-1.  **Start Services:** Launch the Airflow environment using Docker Compose.
+## Running the Pipeline for MAC users
+
+### 1. Environment Setup
+First, create a virtual environment to isolate the project dependencies.
+
+```bash
+# 1. Create virtual environment
+python3 -m venv .venv
+
+# 2. Activate it
+source .venv/bin/activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+```
+
+### 2. Configure Airflow
+We need to configure Airflow to find the `airflow_dag.py` file in the main folder.
+
+1.  **Initialize Airflow:**
+    Run these commands to generate the `airflow/` folder and the configuration file:
     ```bash
-    docker compose up -d
+    export AIRFLOW_HOME=$(pwd)/airflow
+    airflow db migrate
     ```
-2.  **Access UI:** Open the Airflow web interface (`http://localhost:8080`).
-3.  **Trigger DAG:** Locate the `f1_drivers_pipeline` DAG, ensure it is **ON**, and trigger a run.
+
+2.  **Edit Configuration File:**
+    *   Open the newly created file: `airflow/airflow.cfg`.
+    *   Search for the line starting with `dags_folder`.
+    *   Change it to point to your **current project folder** (where `airflow_dag.py` is located).
+    
+    *Example:*
+    ```ini
+    dags_folder = /Users/username/Desktop/Data-Collection-and-Preparation---SIS-2
+    ```
+
+### 3. Run Airflow
+Now start the Airflow services:
+
+```bash
+export AIRFLOW_HOME=$(pwd)/airflow
+airflow standalone
+```
+
+### 4. Trigger the DAG
+1.  **Access UI:** Open `http://localhost:8080` in your browser.
+2.  **Login:** Use the username `admin` and the password **displayed in your terminal output**.
+3.  **Run DAG:** 
+    *   Locate the `f1_drivers_pipeline` DAG.
+    *   Toggle the switch to **Unpause** (Blue).
+    *   Click the **Play Button** (Trigger DAG) on the right.
 
 The pipeline executes the tasks sequentially: **Scraping** → **Cleaning** → **Loading**.
+
+---
 
 ## SQLite Database Schema
 

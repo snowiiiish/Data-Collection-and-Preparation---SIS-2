@@ -47,34 +47,104 @@ project/
     ├── drivers_final_cleaned.json
     └── output.db
 ```
-### How to Run Airflow
 
-1.  **Start Services:** Launch the Airflow environment using Docker Compose.
+## Running the Pipeline
+
+### 1. Environment Setup
+First, create a virtual environment to isolate the project dependencies.
+
+```bash
+# 1. Create virtual environment
+python3 -m venv .venv
+
+# 2. Activate it
+source .venv/bin/activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+```
+
+### 2. Configure Airflow
+We need to configure Airflow to find the `airflow_dag.py` file in the main folder.
+
+1.  **Initialize Airflow:**
+    Run these commands to generate the `airflow/` folder and the configuration file:
     ```bash
-    docker compose up -d
+    export AIRFLOW_HOME=$(pwd)/airflow
+    airflow db migrate
     ```
-2.  **Access UI:** Open the Airflow web interface (`http://localhost:8080`).
-3.  **Trigger DAG:** Locate the `f1_drivers_pipeline` DAG, ensure it is **ON**, and trigger a run.
+
+2.  **Edit Configuration File:**
+    *   Open the newly created file: `airflow/airflow.cfg`.
+    *   Search for the line starting with `dags_folder`.
+    *   Change it to point to your **current project folder** (where `airflow_dag.py` is located).
+    
+    *Example:*
+    ```ini
+    dags_folder = /Users/username/Desktop/Data-Collection-and-Preparation---SIS-2
+    ```
+
+### 3. Run Airflow
+Now start the Airflow services:
+
+```bash
+export AIRFLOW_HOME=$(pwd)/airflow
+airflow standalone
+```
+
+### 4. Trigger the DAG
+1.  **Access UI:** Open `http://localhost:8080` in your browser.
+2.  **Login:** Use the username `admin` and the password **displayed in your terminal output**.
+3.  **Run DAG:** 
+    *   Locate the `f1_drivers_pipeline` DAG.
+    *   Toggle the switch to **Unpause** (Blue).
+    *   Click the **Play Button** (Trigger DAG) on the right.
 
 The pipeline executes the tasks sequentially: **Scraping** → **Cleaning** → **Loading**.
 
 ---
 
-## 3. Database Schema
+## SQLite Database Schema
 
-Data is stored in `data/output.db` in a normalized schema.
+The database (`data/output.db`) contains two relational tables.
 
-| Table Name | Purpose | Key Fields | Relationship |
-| :--- | :--- | :--- | :--- |
-| `drivers` | Driver summary and career totals. | `id` (PK), `name` (UNIQUE) | One-to-Many |
-| `career_path` | Individual seasonal results. | `id` (PK), `driver_name`, `year` | Many-to-One (`drivers`) |
+### Table 1: `drivers`
+*Stores unique driver information and career totals.*
+
+| Column Name  | Type    | Not Null | Details           |
+|--------------|---------|----------|-------------------|
+| id           | INTEGER | Yes      | PK, Auto Increment|
+| name         | TEXT    | Yes      | UNIQUE            |
+| nationality  | TEXT    | No       | -                 |
+| total_points | REAL    | No       | Aggregated Sum    |
+| last_updated | TEXT    | Yes      | ISO Timestamp     |
+
+### Table 2: `career_path`
+*Stores yearly results for every driver (One-to-Many relationship).*
+
+| Column Name | Type    | Not Null | Details              |
+|-------------|---------|----------|----------------------|
+| id          | INTEGER | Yes      | PK, Auto Increment   |
+| driver_name | TEXT    | Yes      | FK -> drivers(name)  |
+| year        | INTEGER | Yes      | -                    |
+| position    | TEXT    | No       | -                    |
+| team        | TEXT    | No       | -                    |
+| points      | REAL    | No       | -                    |
 
 ---
 
-## 4. Expected Output
+## Data Cleaning
+Key cleaning steps performed in `src/cleaner.py`:
+- **Normalization:** Removes newlines and extra spaces from names and text.
+- **Type Conversion:** Converts "Year" to integer and "Points" to float.
+- **Aggregation:** Calculates total career points for every driver across all years.
+- **Deduplication:** Ensures no duplicate entries for the same driver in the same year.
+- **Sorting:** Sorts drivers by total career points (highest to lowest).
 
-Upon successful completion, the following artifacts and logs will be generated:
+---
 
-1.  **Database:** The **`data/output.db`** file will be created/updated.
-2.  **Data Volume:** The database will contain **over 100** combined season records.
-3.  **Logs:** The `loader` task logs will confirm the successful insertion of data:
+## Expected Output
+After running the pipeline successfully:
+1.  **`data/drivers.json`** — Raw scraped data (~50 years of rows).
+2.  **`data/drivers_clean.json`** — Cleaned, sorted, and aggregated data.
+3.  **`data/output.db`** — SQLite database populated with relationally linked data.

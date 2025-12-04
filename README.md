@@ -31,9 +31,10 @@ project/
 │   README.md
 │   .gitignore
 │   requirements.txt
+│   SIS2_Assignment.docx
 │   airflow_dag.py
 │   create_schema.py
-│   pipeline.py
+│   run_pipeline.py
 │
 ├── src/
 │   ├── scraper.py
@@ -45,7 +46,6 @@ project/
     ├── drivers_clean.json
     ├── drivers_final_cleaned.json
     └── output.db
-
 
 ### How to Run Airflow
 

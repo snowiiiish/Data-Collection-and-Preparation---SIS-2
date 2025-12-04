@@ -1,0 +1,9 @@
+airflow/*.db
+airflow/*.db-shm
+airflow/*.db-wal
+airflow/logs/
+airflow/*.cfg
+__pycache__/
+*.pyc
+.DS_Store
+.venv/

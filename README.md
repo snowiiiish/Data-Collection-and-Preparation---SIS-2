@@ -1,4 +1,4 @@
-# Data-Collection-and-Preparation---SIS-2
+# Data-Collection-and-Preparation-SIS-2
 # F1 Driver Career Data Pipeline
 
 **Project Overview:** A robust mini-ETL pipeline designed to extract, transform, and load historical Formula 1 driver statistics. The workflow is fully automated using **Apache Airflow**, demonstrating a complete data process "from website to database."
@@ -32,10 +32,9 @@ project/
 │   README.md
 │   .gitignore
 │   requirements.txt
-│   SIS2_Assignment.docx
 │   airflow_dag.py
 │   create_schema.py
-│   run_pipeline.py
+│   pipeline.py
 │
 ├── src/
 │   ├── scraper.py
